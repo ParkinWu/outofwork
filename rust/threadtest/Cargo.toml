@@ -1,6 +1,0 @@
-[package]
-name = "threadtest"
-version = "0.1.0"
-authors = ["parkinwu"]
-
-[dependencies]

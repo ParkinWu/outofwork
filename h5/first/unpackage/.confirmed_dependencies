@@ -1,8 +1,0 @@
-{
-  "index.html": {
-    "resources": [
-      "css/index.css",
-      "js/index.js"
-    ]
-  }
-}

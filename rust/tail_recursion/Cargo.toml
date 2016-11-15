@@ -1,7 +1,0 @@
-[package]
-name = "tail_recursion"
-version = "0.1.0"
-authors = ["parkinwu <snowy_way@163.com>"]
-
-[dependencies]
-time = "*"
