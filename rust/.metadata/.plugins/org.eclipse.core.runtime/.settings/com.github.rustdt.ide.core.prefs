@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+format_onSave=false
+racer_path=/Users/parkinwu/.cargo/bin/racer
+rainicorn_path=/Users/parkinwu/.cargo/bin/parse_describe
+rustfmt_path=/Users/parkinwu/.cargo/bin/rustfmt
+sdk_path=/Users/parkinwu/.cargo/
+sdk_src_path=/Users/parkinwu/work/rustsrc/rustc-1.11.0/src
