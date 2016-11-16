@@ -14,13 +14,6 @@
   (major1) == 4 && (major2) <  9 || \
   (major1) == 4 && (major2) == 9 && (minor) <= 0)
 
-/* package directory-1.2.6.2 */
-#define VERSION_directory "1.2.6.2"
-#define MIN_VERSION_directory(major1,major2,minor) (\
-  (major1) <  1 || \
-  (major1) == 1 && (major2) <  2 || \
-  (major1) == 1 && (major2) == 2 && (minor) <= 6)
-
 /* tool cpphs-1.20.1 */
 #define TOOL_VERSION_cpphs "1.20.1"
 #define MIN_TOOL_VERSION_cpphs(major1,major2,minor) (\
@@ -84,7 +77,14 @@
   (major1) == 1 && (major2) <  24 || \
   (major1) == 1 && (major2) == 24 && (minor) <= 0)
 
-#define CURRENT_COMPONENT_ID "hello-0.1.0.0-4N1LOXfkYmKIrDXtVKSBd5"
+/* tool pkg-config-0.29.1 */
+#define TOOL_VERSION_pkg_config "0.29.1"
+#define MIN_TOOL_VERSION_pkg_config(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  29 || \
+  (major1) == 0 && (major2) == 29 && (minor) <= 1)
 
-#define CURRENT_PACKAGE_KEY "hello-0.1.0.0-4N1LOXfkYmKIrDXtVKSBd5"
+#define CURRENT_COMPONENT_ID "hello-0.1.0.0-2MDzoFPW8yDJLgrpJYcMkC"
+
+#define CURRENT_PACKAGE_KEY "hello-0.1.0.0-2MDzoFPW8yDJLgrpJYcMkC"
 

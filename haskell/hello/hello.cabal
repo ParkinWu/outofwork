@@ -1,43 +1,27 @@
 name:                hello
 version:             0.1.0.0
-synopsis:            Initial project template from stack
+synopsis:            Simple project template from stack
 description:         Please see README.md
-homepage:            https://github.com/githubuser/hello#readme
+homepage:            https://github.com/bitemyapp/hello#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
+author:              pzwu
+maintainer:          example@email.com
+copyright:           2016, pzwu
 category:            Web
 build-type:          Simple
--- extra-source-files:
 cabal-version:       >=1.10
 
-library
-  hs-source-dirs:      src
-  exposed-modules:     Lib
-  build-depends:       base >= 4.7 && < 5
-                     , directory
-  default-language:    Haskell2010
-
-executable hello-exe
-  hs-source-dirs:      app
+executable hello
+  hs-source-dirs:      exe
   main-is:             Main.hs
-  ghc-options:         -threaded -rtsopts -with-rtsopts=-N
-  build-depends:       base
-                     , hello
-                     , directory
   default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                      ,hello
 
-test-suite hello-test
-  type:                exitcode-stdio-1.0
-  hs-source-dirs:      test
-  main-is:             Spec.hs
-  build-depends:       base
-                     , hello
-  ghc-options:         -threaded -rtsopts -with-rtsopts=-N
-  default-language:    Haskell2010
-
-source-repository head
-  type:     git
-  location: https://github.com/githubuser/hello
+library
+  hs-source-dirs:     src
+  exposed-modules:    Hello
+                    , DogsRule
+  build-depends:      base >= 4.7 && < 5
+  default-language:   Haskell2010
