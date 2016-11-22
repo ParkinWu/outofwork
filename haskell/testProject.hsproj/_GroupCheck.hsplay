@@ -1,0 +1,26 @@
+-- Haskell Playground 1.0
+head "abc"
+last "abc"
+
+isPair '{' '}'
+
+odd 1
+
+
+groupCheck "({})"
+groupCheck "[[]()]"
+groupCheck "[{()}]"
+
+groupCheck "{(})"
+groupCheck "([]"
+groupCheck "[])"
+
+groupCheck "()"
+groupCheck "({"
+groupCheck "({}{}()[](([{[]}])))"
+
+groupCheck ""
+groupCheck "[]()[]"
+
+
+
