@@ -1,0 +1,9 @@
+-- Haskell Playground 1.0
+
+
+
+traverse (Identity . (+1)) [1, 2]
+
+next 1 [1..10]
+next "abc" ["a", "abc"]
+next 7 [1..10000]
