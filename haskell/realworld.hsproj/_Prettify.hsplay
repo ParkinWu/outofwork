@@ -1,0 +1,13 @@
+-- Haskell Playground 1.0
+simpleEscapes !! 0
+
+lookup '\b' simpleEscapes
+
+enclose '"' '"' . mconcat . map oneChar $ "\n\t"
+
+double 1
+
+empty <> Text "abc"
+Text "abc" <> Text "123"
+
+

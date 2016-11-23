@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+JString "foo"
+
+
+truncate 12.123

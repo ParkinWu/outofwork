@@ -1,0 +1,26 @@
+-- Haskell Playground 1.0
+let o = JObject [
+                  ("name", JString "pzwu"),
+                  ("age", JNumber 25)
+                 ]
+
+print $ renderJValue o
+
+
+let a = JArray [o, o]
+
+print $ renderJValue a
+
+let root = JObject [
+                      ("personInfo", o),
+                      ("city", JString "shanghai"),
+                      ("friends", a),
+                      ("abc", JNull),
+                      ("empty", (JArray []))
+                    ]
+                    
+
+print $ renderJValue root
+
+
+print $ renderJValue (JArray [])
