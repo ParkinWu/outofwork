@@ -16,4 +16,4 @@ let root = JObject [
                       ("empty", (JArray []))
                     ]
                     
-print $ pretty (0) (renderJValue root)
+putStr $ pretty (30) (renderJValue root)

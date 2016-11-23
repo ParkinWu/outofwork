@@ -5,6 +5,8 @@ import Numeric (showHex)
 import Data.Char (ord)
 import Data.Bits (shiftR, (.&.))
 
+
+
 data Doc = Empty
          | Char Char
          | Text String

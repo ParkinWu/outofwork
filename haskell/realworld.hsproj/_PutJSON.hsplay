@@ -4,12 +4,12 @@ let o = JObject [
                   ("age", JNumber 25)
                  ]
 
-print $ renderJValue o
+putStr $ renderJValue o
 
 
 let a = JArray [o, o]
 
-print $ renderJValue a
+putStr $ renderJValue a
 
 let root = JObject [
                       ("personInfo", o),
@@ -20,7 +20,7 @@ let root = JObject [
                     ]
                     
 
-print $ renderJValue root
+putStr $ renderJValue root
 
 
-print $ renderJValue (JArray [])
+putStr $ renderJValue (JArray [])
