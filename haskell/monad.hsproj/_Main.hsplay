@@ -1,0 +1,30 @@
+-- Haskell Playground 1.0
+
+eval (Div (Lit 10) (Lit 0))
+
+safeEval (Add (Lit 1) (Lit 2))
+
+
+evalSeq (Just 5) (\x -> Just (x + 5))
+
+let a = evalSeq (Just 5) (add (Just 10))
+a
+
+evalSeq a (add (Just 3))
+
+evalSeq a (div1 (Just 0))
+
+evalSeq a (div1 (Just 3))
+
+
+safeEval1 (Add (Lit 1) (Lit 2))
+safeEval1 (Div (Lit 10) (Lit 2))
+safeEval1 (Div (Lit 10) (Lit 0))
+(Div (Lit 10))
+
+return 3 :: [] Int
+
+concatMap
+concatMap (\x -> [x + 1]) [1, 2, 3]
+
+[1, 2, 3] >>= (\x -> [x + 1]) >>= (\y -> [y * 2])

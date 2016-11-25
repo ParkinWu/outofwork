@@ -10,3 +10,7 @@ double 1
 empty <> Text "abc"
 Text "abc" <> Text "123" <> Text "ABC"
 
+
+
+
+putStrLn (pretty 30 (empty </> char 'a'))

@@ -1,0 +1,33 @@
+hotel_subtitle_bill,仅在账单页面生效,Only be vaild on bill page,清算ページのみで有効にします,정산 페이지에 유효합니다,มีผลในหน้าธุรกรรม,Chỉ có hiệu lực trong trang đặt thanh toán 
+hotel_subtitle_order,仅在订单页面生效,Only be vaild on booking page,予約ページのみで有効にします,예약 페이지에 유효합니다,มีผลในหน้าการจอง,Chỉ có hiệu lực trong trang đặt phòng
+home_bill,账单支付,Bill payment,清算支払,정산 지불,การเงิน,Hóa đơn thanh toán
+bill_title,账单,Bills,清算,정산,ธุรกรรมทางการเงิน,Hóa đơn
+switch_hotel,切换###酒店,Switch ### hotel,ホテルに###切り替え,호텔 변경하기,เปลี่ยน###โรงแรม,Thay đổi/khách sạn
+expense,现付支出,Expense (pay at hotel) ,現地払いの支出,현장 지불,ชำระค่าคอมมิชชั่น,Chi phí của Tại Khách Sạn
+income,预付收入,Income (prepaid),現地払いの収入,선불 입금,เรียกเก็บยอดคงค้าง,Thu nhập từ Trả Trước
+merger_pay,合并支付,Combine to pay,合併支払い,합병 지불,ชำระและเรียกเก็บ,Thu nhập của Tại Khách Sạn và Trả Trước
+expense_detail,现付支出明细,Expense details,現地払いの支出の明細,현장 지불 명세,รายละเอียด,Chi tiết chi phí trong Tại Khách Sạn
+income_detail,预付收入明细,Income details,現地払いの収入の明細,선불 입금 명세,รายละเอียด,Chi tiết thu nhập từ Trả Trước
+room_type_order_id,房型 / 订单号,Room/No.,部屋タイプ/予約番号,객실 타입/ 예약번호,ประเภทห้อง/###เลขการจอง,Loại phòng/ mã số đặt phòng
+jianye,间夜,Room night,室・泊,룸나잇,คืน,Số đêm phòng
+commision,佣金,Commission,コミッション,수수료,คอมมิชชั่น,Tiền hoa hồng
+"room_price""><Data><![CDATA[底价 / <font color=""#ffae2f","<Data><![CDATA[底价 / <font color=""#ffae2f"">面价</font>]]></Data>","<Data><![CDATA[Amount/ <font color=""#ffae2f"">Amount</font>]]></Data>","<Data><![CDATA[仕入価格 / <font color=""#ffae2f"">販売価格</font>]]></Data>","<Data><![CDATA[입금가/ <font color=""#ffae2f"">판매가</font>]]></Data>","<Data><![CDATA[เนท / <font color=""#ffae2f"">ขาย</font>]]></Data>","<Data><![CDATA[net rate / <font color=""#ffae2f"">Giá phòng</font>]]></Data>"
+confirmed_sum,供应商确认金额,Confirmed by supplier,サプライヤー価格,확인 금액,ยอดที่ยืนยัน,Xác nhận số lượng từ nhà cung cấp
+need_pay,需支付,Need to pay,支払額,지불 ,ต้องชำระ,Cần phải thanh toán
+pre_pay,预付,Prepay,前払い,선불,ค้างชำระ,Đã thanh toán trước
+total_pre_pay,预付金额（总计）,Prepay amount (total) ,前払い金額（計）,선불 금액(총),ยอดค้างชำระ (ทั้งหมด),Số Tiền Trả Trước (Tổng Cộng)
+payment_detail,需支付总额明细,Total payment detail,支払全額明細,지불 총금액 명세,รายละเอียดการชำระ,Chi tiết của tổng số tiền cần thanh toán
+need_pay_sum,需支付总额,Total payment,支払全額,지불 총 금액,ยอดที่ต้องชำระ,Tổng số tiền cần thanh toán
+detail,详情,Detail,明細,상세설명,รายละเอียด,Chi tiết
+details_view,查看明细,View details,明細の確認,명세 보기,ดูรายละเอียด,Kiểm tra chi tiết
+paid_down,直接付款,Pay online,支払い,바로 정산하기,ชำระ,Đã thanh toán trực tiếp
+paid,已支付,Paid,支払済み,이미 지불,ชำระเรียบร้อย,Đã thanh toán
+not_paid,未支付,Unpaid,未支払,미 지불,ยังไม่มีการชำระ,Chưa thanh toán
+bill_detail_expense_PayAmount,需支付,Need to pay,支払額,지불해야함,ต้องชำระ,Số tiền cần phải thanh toán
+bill_detail_expense_CommissionAmount,基础佣金（小计）,Commission amount,基本コミッション（計）,기본 수수료(소계),ยอดคอมมิชชั่น,Số Tiền Hoa Hồng (Tổng Số)
+bill_detail_expense_confirmed_sum,供应商确认金额,Confirmed by supplier,サプライヤー価格,확인 금액,ยอดที่ยืนยัน,Chi phí cần xác nhận
+bill_detail_DeductRate_arg,扣率：<xliff:g>%1$s</xliff:g>,Deduct rate：<xliff:g>%1$s</xliff:g>,コミッション率：<xliff:g>%1$s</xliff:g>,수수료 뺀:<xliff:g>%1$s</xliff:g>,หัก%：<xliff:g>%1$s</xliff:g>,Giảm giá : <xliff:g>%1$s</xliff:g>
+bill_detail_CommissionReward_arg,阶梯佣金：<xliff:g>%1$s</xliff:g>,Override commissions：<xliff:g>%1$s</xliff:g>,ステップコミッション：<xliff:g>%1$s</xliff:g>,수수료 단계,เพิ่มคอมมิชชั่น：<xliff:g>%1$s</xliff:g>,Tiền hoa hồng được thưởng：<xliff:g>%1$s</xliff:g>
+bill_detail_AdjustAmount_arg,调整佣金：<xliff:g>%1$s</xliff:g>,Modified commissions：<xliff:g>%1$s</xliff:g>,調整コミッション：<xliff:g>%1$s</xliff:g>,수수료 조정,ปรับคอมมิชชั่น：<xliff:g>%1$s</xliff:g>,Tiền hoa hồng được thưởng：<xliff:g>%1$s</xliff:g>
+bill_detail_PaidAmount_arg,已收佣金：-<xliff:g>%1$s</xliff:g>,Commission is confirmed：-<xliff:g>%1$s</xliff:g>,既支払コミッション：-<xliff:g>%1$s</xliff:g>,수수료 받기 완료,คอมมิชชั่นที่จ่าย：-<xliff:g>%1$s</xliff:g>,Tiền hoa hồng đã thanh toán
+bill_detail_total_pre_pay,预付金额（总计）,Prepay amount (total),前払い額（計）,선불 금액(총계),ยอดรวมที่จ่าย (ทั้งหมด),Số Tiền Trả Trước (Tổng Cộng)
