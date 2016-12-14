@@ -13,4 +13,5 @@ Executable MonadTrans
       base -any,
       mtl -any
   other-modules:
+      WriterMonad
       MonadTransLearn

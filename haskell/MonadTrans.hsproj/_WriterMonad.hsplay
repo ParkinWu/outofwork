@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+
+:i MonadWriter
+
+let x = mergeSort  0 [1, 2, 8, 0, 15, 9, 4]
+x
+
+putStrLn $ snd $ runWriter x
