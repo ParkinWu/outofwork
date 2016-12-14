@@ -1,0 +1,12 @@
+-- Haskell Playground 1.0
+show
+
+let x = Reader $ show 
+
+let y = (++ "\n")
+
+let z = runReader $ y <$> x
+
+
+z 10
+
