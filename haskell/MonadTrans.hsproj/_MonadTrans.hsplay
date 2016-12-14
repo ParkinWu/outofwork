@@ -1,0 +1,20 @@
+-- Haskell Playground 1.0
+Identity 1
+
+Compose Identity
+
+Compose Identity
+
+Compose [Just 1, Nothing]
+
+fmap (+ 1) it
+
+One (Just 1)
+
+fmap (+1) it
+
+Three (Just (Identity (Just 1)))
+
+
+
+:i fmap

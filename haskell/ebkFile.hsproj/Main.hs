@@ -30,4 +30,4 @@ getVietCol content = getCol content 7
 
 
 com :: String -> String -> String
-com x y = "\"" ++ x ++ "\"" ++ " = " ++ "\"" ++ y ++ "\"" 
+com x y = "\"" ++ x ++ "\"" ++ " = " ++ "\"" ++ y ++ "\"" ++ ";" 

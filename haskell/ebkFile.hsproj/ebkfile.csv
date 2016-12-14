@@ -1,4 +1,9 @@
-hotel_subtitle_bill,仅在账单页面生效,Only be vaild on bill page,清算ページのみで有効にします,정산 페이지에 유효합니다,มีผลในหน้าธุรกรรม,Chỉ có hiệu lực trong trang đặt thanh toán 
+no_pic_desc2,您可以使用相机拍照或使用相册已有照片上传至图片管理。,You can use camera or upload existing pictures to Photos page,撮影するかあった写真をアップロードすることができます,사진 찍거나 이미 있는 사진 업로드 해주세요,โรงแรมสามารถถ่ายภาพหรือเลือกรูปภาพจากแกลอรี่แล้วอัปโหลดในการจัดการรูปภาพ,Bạn có thể chọn chế độ chụp hình hay chọn hình từ hệ thống ảnh hoặc album để tải hình lên trên hệ thống quản lý hình ảnh
+title_choose_hotel,选择酒店,Select hotel,ホテルの選択,호텔 선택,เลือกโรงแรม,Lựa chọn khách sạn
+total_x_hotels,共<xliff:g>%1$s</xliff:g>个,Totally <xliff:g>%1$s</xliff:g>,全部で<xliff:g>%1$s</xliff:g>個,총 <xliff:g>%1$s</xliff:g>개,ทั้งหมด<xliff:g>%1$s</xliff:g>โรง,Tổng cộng<xliff:g>%1$s</xliff:g>
+choose_all_hotel,全部酒店,All hotels,すべてのホテル,전체 호텔,โรงแรมทั้งหมด,Tổng cộng các khách sạn
+hotel_code_or_name,酒店代码/酒店名称,Hotel code/hotel name,ホテル番号/ホテル名,호텔 번호/호텔 명칭,รหัส/ชื่อโรงแรม,Mã khách sạn/Tên khách sạn
+hotel_subtitle_bill,仅在账单页面生效,Only be vaild on bill page,清算ページのみで有効にします,정산 페이지에 유효합니다,มีผลในหน้าธุรกรรม,Chỉ có hiệu lực trong trang đặt thanh toán
 hotel_subtitle_order,仅在订单页面生效,Only be vaild on booking page,予約ページのみで有効にします,예약 페이지에 유효합니다,มีผลในหน้าการจอง,Chỉ có hiệu lực trong trang đặt phòng
 home_bill,账单支付,Bill payment,清算支払,정산 지불,การเงิน,Hóa đơn thanh toán
 bill_title,账单,Bills,清算,정산,ธุรกรรมทางการเงิน,Hóa đơn

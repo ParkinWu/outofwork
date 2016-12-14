@@ -1,0 +1,36 @@
+-- Haskell Playground 1.0
+:i Identity
+:i Applicative
+
+Just (* 2)
+
+Just 1
+
+(Just (* 2)) <*> Just 1
+
+let f = IdentityT $ Just (*2)
+runIdentityT f
+
+
+let a = IdentityT $ Just 1
+
+f <*> a
+
+:i safeHead
+
+
+safeHead []
+runIdentity $ runMaybeT $ safeHead []
+
+
+let x = push 10
+push 2
+
+runState (pop) []
+
+
+stack
+
+runState stack []
+
+:i StateT
