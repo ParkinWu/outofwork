@@ -1,0 +1,10 @@
+-- Haskell Playground 1.0
+largeList
+
+take 1 (reverse (reverse largeList))
+
+(flip (:.)) Nil 1
+
+let (x:.y:.z:.w:._) = produce (+1) 0 in [x,y,z,w]
+let (x:.y:.z:.w:._) = produce (*2) 1 in [x,y,z,w]
+let (x:.y:.z:.w:._) = produce (*20) 1 in [x,y,z,w]

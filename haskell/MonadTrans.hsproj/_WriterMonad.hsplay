@@ -12,3 +12,6 @@ runWriter x
 putStrLn $ execWriter x
 
 showsPrec 0 [111] . showsPrec 0 [1, 2, 3]
+
+putStr "Hello " >> putStrLn "World"
+putStr "Hello " *> putStrLn "World"
