@@ -1,0 +1,84 @@
+-- Haskell Playground 1.0
+(+1) <$> (Id 2)
+(+1) <$> Nil
+(+1) <$> (1 :. 2 :. 3 :. Nil)
+
+Full (+8) <*> Full 7
+Empty <*> Full 7
+Full (+8) <*> Empty
+
+((+) <*> (+10)) 3
+((+) <*> (+5)) 3
+((+) <*> (+5)) 1
+((*) <*> (+10)) 3
+((*) <*> (+2)) 3
+
+lift2 (+) (Id 7) (Id 8)
+lift2 (+) (1 :. 2 :. 3 :. Nil) (4 :. 5 :. Nil)
+lift2 (+) (Full 7) (Full 8)
+lift2 (+) (Full 7) Empty
+lift2 (+) Empty (Full 8)
+sum $ listh [4,5,6]
+length
+lift2 (+) length sum (listh [4,5,6])
+
+lift3 (\a b c -> a + b + c) (Id 7) (Id 8) (Id 9)
+lift3 (\a b c -> a + b + c) (1 :. 2 :. 3 :. Nil) (4 :. 5 :. Nil) (6 :. 7 :. 8 :. Nil)
+lift3 (\a b c -> a + b + c) (Full 7) (Full 8) (Full 9)
+lift3 (\a b c -> a + b + c) (Full 7) (Full 8) Empty
+lift3 (\a b c -> a + b + c) Empty (Full 8) (Full 9)
+lift3 (\a b c -> a + b + c) Empty Empty (Full 9)
+lift3 (\a b c -> a + b + c) length sum product (listh [4,5,6])
+(1 :. 2 :. 3 :. Nil) *> (4 :. 5 :. 6 :. Nil)
+
+(1 :. 2 :. Nil) *> (4 :. 5 :. 6 :. Nil)
+
+replicateA 4 (Id "hi")
+replicateA 4 (Full "hi")
+replicateA 4 Empty
+replicateA 4 (*2) 5
+replicateA 3 ('a' :. 'b' :. 'c' :. Nil)
+
+
+replicate 10 (Id 'c')
+
+replicate 3 ('a' :. 'b' :. 'c' :. Nil)
+
+
+filtering (Id . even) (4 :. 5 :. 6 :. Nil)
+filtering (\a -> if a > 13 then Empty else Full (a <= 7)) (4 :. 5 :. 6 :. Nil)
+
+filtering (\a -> if a > 13 then Empty else Full (a <= 7)) (4 :. 5 :. 6 :. 7 :. 8 :. 9 :. Nil)
+filtering (\a -> if a > 13 then Empty else Full (a <= 7)) (4 :. 5 :. 6 :. 13 :. 14 :. Nil)
+filtering (>) (4 :. 5 :. 6 :. 7 :. 8 :. 9 :. 10 :. 11 :. 12 :. Nil) 8
+filtering (const $ True :. True :.  Nil) (1 :. 2 :. 3 :. Nil)
+
+
+
+
+flip filter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

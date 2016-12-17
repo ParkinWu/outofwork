@@ -14,12 +14,12 @@
   (major1) == 4 && (major2) <  9 || \
   (major1) == 4 && (major2) == 9 && (minor) <= 0)
 
-/* tool cpphs-1.20.1 */
-#define TOOL_VERSION_cpphs "1.20.1"
-#define MIN_TOOL_VERSION_cpphs(major1,major2,minor) (\
+/* package directory-1.2.6.2 */
+#define VERSION_directory "1.2.6.2"
+#define MIN_VERSION_directory(major1,major2,minor) (\
   (major1) <  1 || \
-  (major1) == 1 && (major2) <  20 || \
-  (major1) == 1 && (major2) == 20 && (minor) <= 1)
+  (major1) == 1 && (major2) <  2 || \
+  (major1) == 1 && (major2) == 2 && (minor) <= 6)
 
 /* tool gcc-4.2.1 */
 #define TOOL_VERSION_gcc "4.2.1"
@@ -49,13 +49,6 @@
   (major1) == 2 && (major2) <  17 || \
   (major1) == 2 && (major2) == 17 && (minor) <= 2)
 
-/* tool happy-1.19.5 */
-#define TOOL_VERSION_happy "1.19.5"
-#define MIN_TOOL_VERSION_happy(major1,major2,minor) (\
-  (major1) <  1 || \
-  (major1) == 1 && (major2) <  19 || \
-  (major1) == 1 && (major2) == 19 && (minor) <= 5)
-
 /* tool hpc-0.67 */
 #define TOOL_VERSION_hpc "0.67"
 #define MIN_TOOL_VERSION_hpc(major1,major2,minor) (\
@@ -70,12 +63,12 @@
   (major1) == 0 && (major2) <  68 || \
   (major1) == 0 && (major2) == 68 && (minor) <= 0)
 
-/* tool hscolour-1.24 */
-#define TOOL_VERSION_hscolour "1.24"
+/* tool hscolour-1.22 */
+#define TOOL_VERSION_hscolour "1.22"
 #define MIN_TOOL_VERSION_hscolour(major1,major2,minor) (\
   (major1) <  1 || \
-  (major1) == 1 && (major2) <  24 || \
-  (major1) == 1 && (major2) == 24 && (minor) <= 0)
+  (major1) == 1 && (major2) <  22 || \
+  (major1) == 1 && (major2) == 22 && (minor) <= 0)
 
 /* tool pkg-config-0.29.1 */
 #define TOOL_VERSION_pkg_config "0.29.1"

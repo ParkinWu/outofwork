@@ -11,9 +11,13 @@ Executable Course
   buildable: True
   build-depends:
       base -any,
-      QuickCheck -any
+      QuickCheck -any,
+      containers -any
   other-modules:
       List
       Core
+      State
+      Applicative
+      Monad
       Optional
       Id

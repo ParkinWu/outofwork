@@ -1,0 +1,15 @@
+-- Haskell Playground 1.0
+runState ((+1) <$> State (\s -> (9, s * 2))) 3
+
+runState (pure 2) 0
+runState (pure (+1) <*> pure 0) 0
+runState (State (\s -> ((+3), s P.++ ["apple"])) <*> State (\s -> (7, s P.++ ["banana"]))) []
+
+runState ((const $ put 2) =<< put 1) 0
+
+let modify f = State (\s -> ((), f s)) in runState (modify (+1) >>= \() -> modify (*2)) 7
+
+put 1
+runState (put 1) 0
+
+let p x = (\s -> (const $ pure (x == 'c')) =<< put (1+s)) =<< get in runState (findM p $ listh ['a'..'h']) 0

@@ -1,0 +1,17 @@
+-- Haskell Playground 1.0
+Id (+10) <*> Id 8
+(+1) :. (*2) :. Nil <*> 1 :. 2 :. 3 :. Nil
+Full (+8) <*> Full 7
+Empty <*> Full 7
+Full (+8) <*> Empty
+((+) <*> (+10)) 3
+((+) <*> (+5)) 3
+((+) <*> (+5)) 1
+((*) <*> (+10)) 3
+((*) <*> (+2)) 3
+
+join ((1 :. 2 :. 3 :. Nil) :. (1 :. 2 :. Nil) :. Nil)
+
+join (Full Empty)
+
+((\n -> n :. n :. Nil) <=< (\n -> n+1 :. n+2 :. Nil)) 1

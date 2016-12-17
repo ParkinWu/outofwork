@@ -1,11 +1,11 @@
 
 ==================== FINAL INTERFACE ====================
-2016-11-10 03:42:09.495485 UTC
+2016-12-16 09:38:04.674256 UTC
 
 interface main@main:Main 8001
-  interface hash: 344afb96c6f6f6ac39daa87cad12632e
-  ABI hash: 41d283c29b7df6f5db20977c584e8f9d
-  export-list hash: f3a175a93b1d5b2a3620fe4681928a1b
+  interface hash: 74f0fd70a36c8b880425cc56632d5314
+  ABI hash: 4ab7356f2753510100bea6d8629e17e5
+  export-list hash: 0ed31fee1ea33021ab44e3ea1c177ecf
   orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
   flag hash: fa6aa3487f9c61db096e52efe5384ce0
   sig of: Nothing
@@ -14,16 +14,28 @@ interface main@main:Main 8001
 exports:
   Main.main
 module dependencies:
-package dependencies: base-4.9.0.0* ghc-prim-0.5.0.0
+package dependencies: array-0.5.1.1@array-0.5.1.1 base-4.9.0.0*
+                      deepseq-1.4.2.0@deepseq-1.4.2.0 directory-1.2.6.2@directory-1.2.6.2
+                      filepath-1.4.1.0@filepath-1.4.1.0 ghc-prim-0.5.0.0
                       integer-gmp-1.0.0.1
                       learn-0.1.0.0@learn-0.1.0.0-KBPqGX2iDdCIKljB4VF5XY
+                      time-1.6.0.1@time-1.6.0.1 unix-2.7.2.0@unix-2.7.2.0
 orphans: base-4.9.0.0:GHC.Base base-4.9.0.0:GHC.Float
+         time-1.6.0.1@time-1.6.0.1:Data.Time.Calendar.Gregorian
+         time-1.6.0.1@time-1.6.0.1:Data.Time.Format.Parse
+         time-1.6.0.1@time-1.6.0.1:Data.Time.LocalTime.LocalTime
 family instance modules: base-4.9.0.0:Control.Applicative
-                         base-4.9.0.0:Data.Either base-4.9.0.0:Data.Functor.Const
-                         base-4.9.0.0:Data.Monoid base-4.9.0.0:Data.Type.Equality
-                         base-4.9.0.0:GHC.Generics base-4.9.0.0:GHC.IO.Exception
-                         base-4.9.0.0:GHC.TypeLits
+                         base-4.9.0.0:Data.Complex base-4.9.0.0:Data.Either
+                         base-4.9.0.0:Data.Functor.Const base-4.9.0.0:Data.Functor.Identity
+                         base-4.9.0.0:Data.List.NonEmpty base-4.9.0.0:Data.Monoid
+                         base-4.9.0.0:Data.Semigroup base-4.9.0.0:Data.Type.Equality
+                         base-4.9.0.0:Data.Version base-4.9.0.0:Data.Void
+                         base-4.9.0.0:GHC.Exts base-4.9.0.0:GHC.Generics
+                         base-4.9.0.0:GHC.IO.Exception base-4.9.0.0:GHC.TypeLits
+import  -/  base-4.9.0.0:Control.Applicative 7728b33d6969dce59e89474349eb1397
+import  -/  base-4.9.0.0:Control.Monad 7767aebfd53f0b584cef2fe66ad3986c
 import  -/  base-4.9.0.0:Prelude b9bddb97799837fe67a8d00939a5b6c3
+import  -/  directory-1.2.6.2@directory-1.2.6.2:System.Directory 70295561fa4b767155c8578e8be889c6
 import  -/  ghc-prim-0.5.0.0:GHC.Types 7378e41b7749213c8c88ceb6b0665d4c
 import  -/  learn-0.1.0.0@learn-0.1.0.0-KBPqGX2iDdCIKljB4VF5XY:Lib fcb7a33b03d4a804f5dd30e2b39d9146
 d6831ef04cb9301b090dfae6f7bb7ec7
