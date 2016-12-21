@@ -22,6 +22,8 @@ library
                      , directory
                      , filepath
                      , time
+                     , parsec
+
   default-language:    Haskell2010
 
 executable abc

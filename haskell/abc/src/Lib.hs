@@ -1,6 +1,10 @@
-module Lib
-    ( someFunc
-    ) where
+module Lib where
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+import Text.ParserCombinators.Parsec hiding (spaces)
+import Control.Monad.ST
+import System.Environment
+
+
+symbol :: Parser Char
+symbol = oneOf "!#$%&|*+-/:<=>?@^_~"
+
