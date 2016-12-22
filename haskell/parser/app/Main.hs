@@ -4,7 +4,6 @@ module Main where
 import Data.Text
 import qualified Data.Text.IO as T
 import Data.Map as Map
-import Control.Applicative
 
 data EitherIO e a = EitherIO {
   runEitherIO :: IO (Either e a)

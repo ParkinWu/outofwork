@@ -10494,6 +10494,366 @@ zeroBigNat	/Users/parkinwu/.stack/indices/Hackage/packages/integer-gmp/1.0.0.1/i
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 !_TAG_PROGRAM_NAME	hasktags
+Control.Monad.Cont	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Cont.hs	/^module Control.Monad.Cont ($/;"	m	line:51	language:Haskell
+Control.Monad.Cont.Class	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Cont/Class.hs	/^module Control.Monad.Cont.Class ($/;"	m	line:51	language:Haskell
+Control.Monad.Error	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Error.hs	/^module Control.Monad.Error$/;"	m	line:35	language:Haskell
+Control.Monad.Error.Class	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Error/Class.hs	/^module Control.Monad.Error.Class ($/;"	m	line:38	language:Haskell
+Control.Monad.Except	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Except.hs	/^module Control.Monad.Except$/;"	m	line:32	language:Haskell
+Control.Monad.Identity	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Identity.hs	/^module Control.Monad.Identity ($/;"	m	line:35	language:Haskell
+Control.Monad.List	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/List.hs	/^module Control.Monad.List ($/;"	m	line:16	language:Haskell
+Control.Monad.RWS	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/RWS.hs	/^module Control.Monad.RWS ($/;"	m	line:20	language:Haskell
+Control.Monad.RWS.Class	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/RWS/Class.hs	/^module Control.Monad.RWS.Class ($/;"	m	line:23	language:Haskell
+Control.Monad.RWS.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/RWS/Lazy.hs	/^module Control.Monad.RWS.Lazy ($/;"	m	line:20	language:Haskell
+Control.Monad.RWS.Strict	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/RWS/Strict.hs	/^module Control.Monad.RWS.Strict ($/;"	m	line:20	language:Haskell
+Control.Monad.Reader	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader.hs	/^module Control.Monad.Reader ($/;"	m	line:38	language:Haskell
+Control.Monad.Reader.Class	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^module Control.Monad.Reader.Class ($/;"	m	line:41	language:Haskell
+Control.Monad.State	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State.hs	/^module Control.Monad.State ($/;"	m	line:21	language:Haskell
+Control.Monad.State.Class	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^module Control.Monad.State.Class ($/;"	m	line:25	language:Haskell
+Control.Monad.State.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Lazy.hs	/^module Control.Monad.State.Lazy ($/;"	m	line:21	language:Haskell
+Control.Monad.State.Strict	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Strict.hs	/^module Control.Monad.State.Strict ($/;"	m	line:21	language:Haskell
+Control.Monad.Trans	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Trans.hs	/^module Control.Monad.Trans ($/;"	m	line:28	language:Haskell
+Control.Monad.Writer	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer.hs	/^module Control.Monad.Writer ($/;"	m	line:20	language:Haskell
+Control.Monad.Writer.Class	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^module Control.Monad.Writer.Class ($/;"	m	line:24	language:Haskell
+Control.Monad.Writer.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Lazy.hs	/^module Control.Monad.Writer.Lazy ($/;"	m	line:20	language:Haskell
+Control.Monad.Writer.Strict	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Strict.hs	/^module Control.Monad.Writer.Strict ($/;"	m	line:20	language:Haskell
+MonadCont	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Cont/Class.hs	/^class Monad m => MonadCont m where$/;"	c	line:73	language:Haskell
+MonadError	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Error/Class.hs	/^class (Monad m) => MonadError e m | m -> e where$/;"	c	line:85	language:Haskell
+MonadRWS	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/RWS/Class.hs	/^   => MonadRWS r w s m | m -> r, m -> w, m -> s$/;"	c	line:45	language:Haskell
+MonadReader	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^class Monad m => MonadReader r m | m -> r where$/;"	c	line:72	language:Haskell
+MonadState	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^class Monad m => MonadState s m | m -> s where$/;"	c	line:53	language:Haskell
+MonadWriter	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^class (Monoid w, Monad m) => MonadWriter w m | m -> w where$/;"	c	line:62	language:Haskell
+ask	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^    ask   :: m r$/;"	ft	line:77	language:Haskell
+asks	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^asks :: MonadReader r m$/;"	ft	line:93	language:Haskell
+callCC	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Cont/Class.hs	/^    callCC :: ((a -> m b) -> m a) -> m a$/;"	ft	line:92	language:Haskell
+catchError	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Error/Class.hs	/^    catchError :: m a -> (e -> m a) -> m a$/;"	ft	line:98	language:Haskell
+censor	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^censor :: MonadWriter w m => (w -> w) -> m a -> m a$/;"	ft	line:98	language:Haskell
+get	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^    get :: m s$/;"	ft	line:55	language:Haskell
+gets	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^gets :: MonadState s m => (s -> a) -> m a$/;"	ft	line:94	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Cont/Class.hs	/^instance MonadCont (ContT r m) where$/;"	fi	line:94	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Error/Class.hs	/^instance MonadError IOException IO where$/;"	fi	line:100	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^instance MonadReader r ((->) r) where$/;"	fi	line:101	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^instance Monad m => MonadState s (Lazy.StateT s m) where$/;"	fi	line:99	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^instance (Monoid w, Monad m) => MonadWriter w (Lazy.WriterT w m) where$/;"	fi	line:103	language:Haskell
+listen	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^    listen :: m a -> m (a, w)$/;"	ft	line:78	language:Haskell
+listens	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^listens :: MonadWriter w m => (w -> b) -> m a -> m (a, b)$/;"	ft	line:88	language:Haskell
+local	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^    local :: (r -> r) -- ^ The function to modify the environment.$/;"	ft	line:81	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Setup.hs	/^main = defaultMain$/;"	fi	line:2	language:Haskell
+modify	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^modify :: MonadState s m => (s -> s) -> m ()$/;"	ft	line:84	language:Haskell
+modify'	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^modify' :: MonadState s m => (s -> s) -> m ()$/;"	ft	line:89	language:Haskell
+pass	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^    pass   :: m (a, w -> w) -> m a$/;"	ft	line:82	language:Haskell
+put	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^    put :: s -> m ()$/;"	ft	line:59	language:Haskell
+reader	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Reader/Class.hs	/^    reader :: (r -> a) -- ^ The selector function to apply to the environment.$/;"	ft	line:86	language:Haskell
+state	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/State/Class.hs	/^    state :: (s -> (a, s)) -> m a$/;"	ft	line:63	language:Haskell
+tell	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^    tell   :: w -> m ()$/;"	ft	line:73	language:Haskell
+throwError	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Error/Class.hs	/^    throwError :: e -> m a$/;"	ft	line:87	language:Haskell
+writer	/Users/parkinwu/.stack/indices/Hackage/packages/mtl/2.2.1/mtl-2.2.1/Control/Monad/Writer/Class.hs	/^    writer :: (a,w) -> m a$/;"	ft	line:67	language:Haskell
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_NAME	hasktags
+(	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^(<||>) perm p     = add perm p$/;"	fi	line:73	language:Haskell
+<$$>	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^(<$$>) :: (Stream s Identity tok) => (a -> b) -> Parsec s st a -> StreamPermParser s st b$/;"	ft	line:89	language:Haskell
+<$?>	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^(<$?>) :: (Stream s Identity tok) => (a -> b) -> (a, Parsec s st a) -> StreamPermParser s st b$/;"	ft	line:106	language:Haskell
+<?>	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^(<?>) :: (ParsecT s u m a) -> String -> (ParsecT s u m a)$/;"	ft	line:332	language:Haskell
+<|>	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^(<|>) :: (ParsecT s u m a) -> (ParsecT s u m a) -> (ParsecT s u m a)$/;"	ft	line:347	language:Haskell
+<|?>	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^(<|?>) :: (Stream s Identity tok) => StreamPermParser s st (a -> b) -> (a, Parsec s st a) -> StreamPermParser s st b$/;"	ft	line:97	language:Haskell
+<||>	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^(<||>) :: (Stream s Identity tok) => StreamPermParser s st (a -> b) -> Parsec s st a -> StreamPermParser s st b$/;"	ft	line:72	language:Haskell
+Assoc	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^data Assoc                = AssocNone$/;"	d	line:33	language:Haskell
+AssocLeft	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^                          | AssocLeft$/;"	cons	line:34	language:Haskell
+AssocNone	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^data Assoc                = AssocNone$/;"	d	line:33	language:Haskell
+AssocRight	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^                          | AssocRight$/;"	cons	line:35	language:Haskell
+Bugs	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs.hs	/^module Bugs$/;"	m	line:2	language:Haskell
+Bugs.Bug2	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug2.hs	/^module Bugs.Bug2$/;"	m	line:2	language:Haskell
+Bugs.Bug35	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug35.hs	/^module Bugs.Bug35 (main) where$/;"	m	line:2	language:Haskell
+Bugs.Bug6	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug6.hs	/^module Bugs.Bug6$/;"	m	line:2	language:Haskell
+Bugs.Bug9	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^module Bugs.Bug9 ( main ) where$/;"	m	line:2	language:Haskell
+CharParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Char.hs	/^type CharParser st = GenParser Char st$/;"	t	line:40	language:Haskell
+Column	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^type Column     = Int$/;"	t	line:33	language:Haskell
+Const	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^data Expr = Const Integer | Op Expr Expr$/;"	d	line:17	language:Haskell
+Consumed	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^data Consumed a  = Consumed a$/;"	d	line:161	language:Haskell
+Empty	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^                 | Empty !a$/;"	cons	line:162	language:Haskell
+Error	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^                 | Error ParseError$/;"	cons	line:166	language:Haskell
+Expect	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^             | Expect      !String -- @ expecting something$/;"	cons	line:59	language:Haskell
+Expr	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^data Expr = Const Integer | Op Expr Expr$/;"	d	line:17	language:Haskell
+GenLanguageDef	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^data GenLanguageDef s u m$/;"	d	line:45	language:Haskell
+GenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString.hs	/^type GenParser t st = Parsec C.ByteString st$/;"	t	line:25	language:Haskell
+GenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString/Lazy.hs	/^type GenParser t st = Parsec C.ByteString st$/;"	t	line:25	language:Haskell
+GenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/String.hs	/^type GenParser tok st = Parsec [tok] st$/;"	t	line:23	language:Haskell
+GenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text.hs	/^type GenParser st = Parsec Text.Text st$/;"	t	line:24	language:Haskell
+GenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text/Lazy.hs	/^type GenParser st = Parsec Text.Text st$/;"	t	line:24	language:Haskell
+GenTokenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^data GenTokenParser s u m$/;"	d	line:115	language:Haskell
+Infix	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^data Operator s u m a   = Infix (ParsecT s u m (a -> a -> a)) Assoc$/;"	d	line:42	language:Haskell
+Infix	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^data Operator tok st a   = Infix  (GenParser tok st (a -> a -> a)) Assoc$/;"	d	line:29	language:Haskell
+LanguageDef	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^type LanguageDef st = GenLanguageDef String st Identity$/;"	t	line:39	language:Haskell
+Line	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^type Line       = Int$/;"	t	line:32	language:Haskell
+Main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Setup.hs	/^module Main (main) where$/;"	m	line:1	language:Haskell
+Message	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^data Message = SysUnExpect !String -- @ library generated unexpect$/;"	d	line:57	language:Haskell
+Ok	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^data Reply s u a = Ok a !(State s u) ParseError$/;"	d	line:165	language:Haskell
+Op	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^data Expr = Const Integer | Op Expr Expr$/;"	cons	line:17	language:Haskell
+Operator	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^data Operator s u m a   = Infix (ParsecT s u m (a -> a -> a)) Assoc$/;"	d	line:42	language:Haskell
+Operator	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^data Operator tok st a   = Infix  (GenParser tok st (a -> a -> a)) Assoc$/;"	d	line:29	language:Haskell
+OperatorTable	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^type OperatorTable s u m a = [[Operator s u m a]]$/;"	t	line:54	language:Haskell
+OperatorTable	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^type OperatorTable tok st a = [[Operator tok st a]]$/;"	t	line:33	language:Haskell
+ParseError	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^data ParseError = ParseError !SourcePos [Message]$/;"	d	line:98	language:Haskell
+Parsec	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^type Parsec s u = ParsecT s u Identity$/;"	t	line:159	language:Haskell
+ParsecT	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^newtype ParsecT s u m a$/;"	nt	line:119	language:Haskell
+Parser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString.hs	/^type Parser = Parsec C.ByteString ()$/;"	t	line:24	language:Haskell
+Parser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString/Lazy.hs	/^type Parser = Parsec C.ByteString ()$/;"	t	line:24	language:Haskell
+Parser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/String.hs	/^type Parser = Parsec String ()$/;"	t	line:22	language:Haskell
+Parser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text.hs	/^type Parser = Parsec Text.Text ()$/;"	t	line:23	language:Haskell
+Parser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text/Lazy.hs	/^type Parser = Parsec Text.Text ()$/;"	t	line:23	language:Haskell
+Perm	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^data StreamPermParser s st a = Perm (Maybe a) [StreamBranch s st a]$/;"	d	line:126	language:Haskell
+PermParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^type PermParser tok st a = StreamPermParser String st a$/;"	t	line:115	language:Haskell
+Postfix	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^                        | Postfix (ParsecT s u m (a -> a))$/;"	cons	line:44	language:Haskell
+Postfix	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^                         | Postfix (GenParser tok st (a -> a))$/;"	cons	line:31	language:Haskell
+Prefix	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^                        | Prefix (ParsecT s u m (a -> a))$/;"	cons	line:43	language:Haskell
+Prefix	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^                         | Prefix (GenParser tok st (a -> a))$/;"	cons	line:30	language:Haskell
+Reply	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^data Reply s u a = Ok a !(State s u) ParseError$/;"	d	line:165	language:Haskell
+SourceName	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^type SourceName = String$/;"	t	line:31	language:Haskell
+SourcePos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^data SourcePos  = SourcePos SourceName !Line !Column$/;"	d	line:40	language:Haskell
+State	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^data State s u = State {$/;"	d	line:169	language:Haskell
+Stream	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^class (Monad m) => Stream s m t | s -> t where$/;"	c	line:382	language:Haskell
+StreamBranch	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^data StreamBranch s st a = forall b. Branch (StreamPermParser s st (b -> a)) (Parsec s st b)$/;"	d	line:135	language:Haskell
+StreamPermParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^data StreamPermParser s st a = Perm (Maybe a) [StreamBranch s st a]$/;"	d	line:126	language:Haskell
+SysUnExpect	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^data Message = SysUnExpect !String -- @ library generated unexpect$/;"	d	line:57	language:Haskell
+Text.Parsec	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec.hs	/^module Text.Parsec$/;"	m	line:27	language:Haskell
+Text.Parsec.ByteString	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString.hs	/^module Text.Parsec.ByteString$/;"	m	line:15	language:Haskell
+Text.Parsec.ByteString.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString/Lazy.hs	/^module Text.Parsec.ByteString.Lazy$/;"	m	line:15	language:Haskell
+Text.Parsec.Char	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^module Text.Parsec.Char where$/;"	m	line:17	language:Haskell
+Text.Parsec.Combinator	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^module Text.Parsec.Combinator$/;"	m	line:15	language:Haskell
+Text.Parsec.Error	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^module Text.Parsec.Error$/;"	m	line:15	language:Haskell
+Text.Parsec.Expr	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^module Text.Parsec.Expr$/;"	m	line:16	language:Haskell
+Text.Parsec.Language	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^module Text.Parsec.Language$/;"	m	line:16	language:Haskell
+Text.Parsec.Perm	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^module Text.Parsec.Perm$/;"	m	line:23	language:Haskell
+Text.Parsec.Pos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^module Text.Parsec.Pos$/;"	m	line:15	language:Haskell
+Text.Parsec.Prim	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^module Text.Parsec.Prim$/;"	m	line:19	language:Haskell
+Text.Parsec.String	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/String.hs	/^module Text.Parsec.String$/;"	m	line:15	language:Haskell
+Text.Parsec.Text	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text.hs	/^module Text.Parsec.Text$/;"	m	line:15	language:Haskell
+Text.Parsec.Text.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text/Lazy.hs	/^module Text.Parsec.Text.Lazy$/;"	m	line:15	language:Haskell
+Text.Parsec.Token	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^module Text.Parsec.Token$/;"	m	line:19	language:Haskell
+Text.ParserCombinators.Parsec	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec.hs	/^module Text.ParserCombinators.Parsec$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Char	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Char.hs	/^module Text.ParserCombinators.Parsec.Char$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Combinator	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Combinator.hs	/^module Text.ParserCombinators.Parsec.Combinator$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Error	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Error.hs	/^module Text.ParserCombinators.Parsec.Error$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Expr	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^module Text.ParserCombinators.Parsec.Expr$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Language	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Language.hs	/^module Text.ParserCombinators.Parsec.Language$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Perm	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Perm.hs	/^module Text.ParserCombinators.Parsec.Perm$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Pos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Pos.hs	/^module Text.ParserCombinators.Parsec.Pos$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Prim	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Prim.hs	/^module Text.ParserCombinators.Parsec.Prim$/;"	m	line:15	language:Haskell
+Text.ParserCombinators.Parsec.Token	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Token.hs	/^module Text.ParserCombinators.Parsec.Token$/;"	m	line:15	language:Haskell
+TokenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^type TokenParser st = GenTokenParser String st Identity$/;"	t	line:110	language:Haskell
+UnExpect	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^             | UnExpect    !String -- @ unexpected something$/;"	cons	line:58	language:Haskell
+Util	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Util.hs	/^module Util where$/;"	m	line:2	language:Haskell
+add	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^add :: (Stream s Identity tok) => StreamPermParser s st (a -> b) -> Parsec s st a -> StreamPermParser s st b$/;"	ft	line:174	language:Haskell
+addErrorMessage	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^addErrorMessage :: Message -> ParseError -> ParseError$/;"	ft	line:127	language:Haskell
+addopt	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^addopt :: (Stream s Identity tok) => StreamPermParser s st (a -> b) -> a -> Parsec s st a -> StreamPermParser s st b$/;"	ft	line:182	language:Haskell
+alphaNum	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^alphaNum :: (Stream s m Char => ParsecT s u m Char)$/;"	ft	line:93	language:Haskell
+angles	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        angles           :: forall a. ParsecT s u m a -> ParsecT s u m a,$/;"	c_a	line:258	language:Haskell
+anyChar	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^anyChar :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:129	language:Haskell
+anyToken	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^anyToken :: (Stream s m t, Show t) => ParsecT s u m t$/;"	ft	line:233	language:Haskell
+between	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^between :: (Stream s m t) => ParsecT s u m open -> ParsecT s u m close$/;"	ft	line:72	language:Haskell
+braces	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        braces           :: forall a. ParsecT s u m a -> ParsecT s u m a,$/;"	c_a	line:253	language:Haskell
+brackets	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        brackets         :: forall a. ParsecT s u m a -> ParsecT s u m a,$/;"	c_a	line:263	language:Haskell
+bugs	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs.hs	/^bugs :: [Test]$/;"	ft	line:13	language:Haskell
+buildExpressionParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^buildExpressionParser :: (Stream s m t)$/;"	ft	line:91	language:Haskell
+buildExpressionParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^buildExpressionParser :: OperatorTable tok st a$/;"	ft	line:40	language:Haskell
+caseSensitive	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    caseSensitive  :: Bool$/;"	c_a	line:99	language:Haskell
+chainl	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^chainl :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m (a -> a -> a) -> a -> ParsecT s u m a$/;"	ft	line:183	language:Haskell
+chainl1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^chainl1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m (a -> a -> a) -> ParsecT s u m a$/;"	ft	line:202	language:Haskell
+chainr	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^chainr :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m (a -> a -> a) -> a -> ParsecT s u m a$/;"	ft	line:174	language:Haskell
+chainr1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^chainr1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m (a -> a -> a) -> ParsecT s u m a$/;"	ft	line:216	language:Haskell
+char	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^char :: (Stream s m Char) => Char -> ParsecT s u m Char$/;"	ft	line:124	language:Haskell
+charLiteral	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        charLiteral      :: ParsecT s u m Char,$/;"	c_a	line:157	language:Haskell
+choice	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^choice :: (Stream s m t) => [ParsecT s u m a] -> ParsecT s u m a$/;"	ft	line:39	language:Haskell
+colon	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        colon            :: ParsecT s u m String,$/;"	c_a	line:282	language:Haskell
+comma	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        comma            :: ParsecT s u m String,$/;"	c_a	line:277	language:Haskell
+commaSep	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        commaSep         :: forall a . ParsecT s u m a -> ParsecT s u m [a],$/;"	c_a	line:304	language:Haskell
+commaSep1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        commaSep1        :: forall a . ParsecT s u m a -> ParsecT s u m [a]$/;"	c_a	line:310	language:Haskell
+commentEnd	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    commentEnd     :: String,$/;"	c_a	line:56	language:Haskell
+commentLine	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    commentLine    :: String,$/;"	c_a	line:61	language:Haskell
+commentStart	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    commentStart   :: String,$/;"	c_a	line:51	language:Haskell
+convert	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^convert :: Operator tok st a -> N.Operator [tok] st Identity a$/;"	ft	line:35	language:Haskell
+count	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^count :: (Stream s m t) => Int -> ParsecT s u m a -> ParsecT s u m [a]$/;"	ft	line:164	language:Haskell
+crlf	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^crlf :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:61	language:Haskell
+decimal	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        decimal          :: ParsecT s u m Integer,$/;"	c_a	line:200	language:Haskell
+digit	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^digit :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:104	language:Haskell
+dot	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        dot              :: ParsecT s u m String,$/;"	c_a	line:287	language:Haskell
+emptyDef	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^emptyDef   :: LanguageDef st$/;"	ft	line:78	language:Haskell
+endBy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^endBy :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m sep -> ParsecT s u m [a]$/;"	ft	line:157	language:Haskell
+endBy1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^endBy1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m sep -> ParsecT s u m [a]$/;"	ft	line:149	language:Haskell
+endOfLine	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^endOfLine :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:70	language:Haskell
+eof	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^eof :: (Stream s m t, Show t) => ParsecT s u m ()$/;"	ft	line:241	language:Haskell
+errorIsUnknown	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^errorIsUnknown :: ParseError -> Bool$/;"	ft	line:113	language:Haskell
+errorMessages	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^errorMessages :: ParseError -> [Message]$/;"	ft	line:109	language:Haskell
+errorPos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^errorPos :: ParseError -> SourcePos$/;"	ft	line:103	language:Haskell
+float	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        float            :: ParsecT s u m Double,$/;"	c_a	line:188	language:Haskell
+float	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug35.hs	/^float :: Parser Double$/;"	ft	line:32	language:Haskell
+forall	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^data StreamBranch s st a = forall b. Branch (StreamPermParser s st (b -> a)) (Parsec s st b)$/;"	d	line:135	language:Haskell
+getInput	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^getInput :: (Monad m) => ParsecT s u m s$/;"	ft	line:702	language:Haskell
+getParserState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^getParserState :: (Monad m) => ParsecT s u m (State s u)$/;"	ft	line:724	language:Haskell
+getPosition	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^getPosition :: (Monad m) => ParsecT s u m SourcePos$/;"	ft	line:696	language:Haskell
+getState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^getState :: (Monad m) => ParsecT s u m u$/;"	ft	line:744	language:Haskell
+haskell	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^haskell :: TokenParser st$/;"	ft	line:101	language:Haskell
+haskell98Def	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^haskell98Def :: LanguageDef st$/;"	ft	line:118	language:Haskell
+haskellDef	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^haskellDef  :: LanguageDef st$/;"	ft	line:106	language:Haskell
+haskellStyle	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^haskellStyle :: LanguageDef st$/;"	ft	line:37	language:Haskell
+hexDigit	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^hexDigit :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:110	language:Haskell
+hexadecimal	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        hexadecimal      :: ParsecT s u m Integer,$/;"	c_a	line:206	language:Haskell
+identLetter	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    identLetter    :: ParsecT s u m Char,$/;"	c_a	line:75	language:Haskell
+identStart	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    identStart     :: ParsecT s u m Char,$/;"	c_a	line:70	language:Haskell
+identifier	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        identifier       :: ParsecT s u m String,$/;"	c_a	line:125	language:Haskell
+incSourceColumn	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^incSourceColumn :: SourcePos -> Column -> SourcePos$/;"	ft	line:79	language:Haskell
+incSourceLine	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^incSourceLine :: SourcePos -> Line -> SourcePos$/;"	ft	line:74	language:Haskell
+initialPos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^initialPos :: SourceName -> SourcePos$/;"	ft	line:53	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^instance Enum Message where$/;"	fi	line:63	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^instance Show SourcePos where$/;"	fi	line:119	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^instance Functor Consumed where$/;"	fi	line:176	language:Haskell
+integer	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        integer          :: ParsecT s u m Integer,$/;"	c_a	line:182	language:Haskell
+javaStyle	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^javaStyle  :: LanguageDef st$/;"	ft	line:56	language:Haskell
+label	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^label :: ParsecT s u m a -> String -> ParsecT s u m a$/;"	ft	line:351	language:Haskell
+labels	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^labels :: ParsecT s u m a -> [String] -> ParsecT s u m a$/;"	ft	line:355	language:Haskell
+letter	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^letter :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:99	language:Haskell
+lexeme	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        lexeme           :: forall a. ParsecT s u m a -> ParsecT s u m a,$/;"	c_a	line:235	language:Haskell
+lookAhead	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^lookAhead :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m a$/;"	ft	line:484	language:Haskell
+lower	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^lower :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:87	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Setup.hs	/^main :: IO ()$/;"	ft	line:5	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug2.hs	/^main :: Test$/;"	ft	line:15	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug35.hs	/^main :: Test$/;"	ft	line:39	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug6.hs	/^main :: Test$/;"	ft	line:15	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^main :: Test$/;"	ft	line:20	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Main.hs	/^main :: IO ()$/;"	ft	line:6	language:Haskell
+makeTokenParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^makeTokenParser :: (Stream s m Char)$/;"	ft	line:351	language:Haskell
+many	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^many :: ParsecT s u m a -> ParsecT s u m [a]$/;"	ft	line:587	language:Haskell
+many1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^many1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m [a]$/;"	ft	line:93	language:Haskell
+manyAccum	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^manyAccum :: (a -> [a] -> [a])$/;"	ft	line:602	language:Haskell
+manyErr	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^manyErr = error "Text.ParserCombinators.Parsec.Prim.many: combinator 'many' is applied to a parser that accepts an empty string."$/;"	fi	line:615	language:Haskell
+manyTill	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^manyTill :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m end -> ParsecT s u m [a]$/;"	ft	line:272	language:Haskell
+mapPerms	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^mapPerms :: (Stream s Identity tok) => (a -> b) -> StreamPermParser s st a -> StreamPermParser s st b$/;"	ft	line:191	language:Haskell
+mergeError	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^mergeError :: ParseError -> ParseError -> ParseError$/;"	ft	line:139	language:Haskell
+mergeErrorReply	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^mergeErrorReply :: ParseError -> Reply s u a -> Reply s u a$/;"	ft	line:276	language:Haskell
+messageCompare	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Error.hs	/^messageCompare :: Message -> Message -> Ordering$/;"	ft	line:36	language:Haskell
+messageEq	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Error.hs	/^messageEq :: Message -> Message -> Bool$/;"	ft	line:39	language:Haskell
+messageString	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^messageString :: Message -> String$/;"	ft	line:86	language:Haskell
+mkPT	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^mkPT :: Monad m => (State s u -> m (Consumed (m (Reply s u a)))) -> ParsecT s u m a$/;"	ft	line:144	language:Haskell
+modifyState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^modifyState :: (Monad m) => (u -> u) -> ParsecT s u m ()$/;"	ft	line:762	language:Haskell
+mondrian	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^mondrian :: TokenParser st$/;"	ft	line:138	language:Haskell
+mondrianDef	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Language.hs	/^mondrianDef :: LanguageDef st$/;"	ft	line:143	language:Haskell
+natural	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        natural          :: ParsecT s u m Integer,$/;"	c_a	line:173	language:Haskell
+naturalOrFloat	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        naturalOrFloat   :: ParsecT s u m (Either Integer Double),$/;"	c_a	line:195	language:Haskell
+nestedComments	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    nestedComments :: Bool,$/;"	c_a	line:65	language:Haskell
+newErrorMessage	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^newErrorMessage :: Message -> SourcePos -> ParseError$/;"	ft	line:123	language:Haskell
+newErrorUnknown	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^newErrorUnknown :: SourcePos -> ParseError$/;"	ft	line:119	language:Haskell
+newPos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^newPos :: SourceName -> Line -> Column -> SourcePos$/;"	ft	line:46	language:Haskell
+newline	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^newline :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:55	language:Haskell
+newperm	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^newperm :: (Stream s Identity tok) => (a -> b) -> StreamPermParser s st (a -> b)$/;"	ft	line:170	language:Haskell
+noneOf	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^noneOf :: (Stream s m Char) => [Char] -> ParsecT s u m Char$/;"	ft	line:39	language:Haskell
+notFollowedBy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^notFollowedBy :: (Stream s m t, Show a) => ParsecT s u m a -> ParsecT s u m ()$/;"	ft	line:256	language:Haskell
+octDigit	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^octDigit :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:116	language:Haskell
+octal	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        octal            :: ParsecT s u m Integer,$/;"	c_a	line:212	language:Haskell
+oneOf	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^oneOf :: (Stream s m Char) => [Char] -> ParsecT s u m Char$/;"	ft	line:30	language:Haskell
+opLetter	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    opLetter       :: ParsecT s u m Char,$/;"	c_a	line:87	language:Haskell
+opStart	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    opStart        :: ParsecT s u m Char,$/;"	c_a	line:80	language:Haskell
+operator	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        operator         :: ParsecT s u m String,$/;"	c_a	line:141	language:Haskell
+option	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^option :: (Stream s m t) => a -> ParsecT s u m a -> ParsecT s u m a$/;"	ft	line:50	language:Haskell
+optionMaybe	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^optionMaybe :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m (Maybe a)$/;"	ft	line:57	language:Haskell
+optional	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^optional :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m ()$/;"	ft	line:64	language:Haskell
+p	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^p <?> msg = label p msg$/;"	fi	line:333	language:Haskell
+p1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^p1 <|> p2 = mplus p1 p2$/;"	fi	line:348	language:Haskell
+parens	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        parens           :: forall a. ParsecT s u m a -> ParsecT s u m a,$/;"	c_a	line:248	language:Haskell
+parse	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parse :: (Stream s Identity t)$/;"	ft	line:676	language:Haskell
+parseErrors	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Util.hs	/^parseErrors :: Parser a -> String -> [String]$/;"	ft	line:9	language:Haskell
+parseExpr	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^parseExpr :: Parser Expr$/;"	ft	line:34	language:Haskell
+parseFromFile	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString.hs	/^parseFromFile :: Parser a -> String -> IO (Either ParseError a)$/;"	ft	line:37	language:Haskell
+parseFromFile	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString/Lazy.hs	/^parseFromFile :: Parser a -> String -> IO (Either ParseError a)$/;"	ft	line:36	language:Haskell
+parseFromFile	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/String.hs	/^parseFromFile :: Parser a -> String -> IO (Either ParseError a)$/;"	ft	line:34	language:Haskell
+parseTest	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parseTest :: (Stream s Identity t, Show a)$/;"	ft	line:684	language:Haskell
+parseTopLevel	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug9.hs	/^parseTopLevel :: Parser Expr$/;"	ft	line:31	language:Haskell
+parsecMap	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parsecMap :: (a -> b) -> ParsecT s u m a -> ParsecT s u m b$/;"	ft	line:187	language:Haskell
+parserBind	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parserBind :: ParsecT s u m a -> (a -> ParsecT s u m b) -> ParsecT s u m b$/;"	ft	line:236	language:Haskell
+parserFail	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parserFail :: String -> ParsecT s u m a$/;"	ft	line:282	language:Haskell
+parserPlus	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parserPlus :: ParsecT s u m a -> ParsecT s u m a -> ParsecT s u m a$/;"	ft	line:300	language:Haskell
+parserReturn	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parserReturn :: a -> ParsecT s u m a$/;"	ft	line:231	language:Haskell
+parserZero	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^parserZero :: ParsecT s u m a$/;"	ft	line:295	language:Haskell
+permute	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^permute :: (Stream s Identity tok) => StreamPermParser s st a -> Parsec s st a$/;"	ft	line:154	language:Haskell
+putState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^putState :: (Monad m) => u -> ParsecT s u m ()$/;"	ft	line:749	language:Haskell
+pzero	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Prim.hs	/^pzero :: GenParser tok st a$/;"	ft	line:54	language:Haskell
+reserved	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        reserved         :: String -> ParsecT s u m (),$/;"	c_a	line:132	language:Haskell
+reservedNames	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    reservedNames  :: [String],$/;"	c_a	line:91	language:Haskell
+reservedOp	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        reservedOp       :: String -> ParsecT s u m (),$/;"	c_a	line:148	language:Haskell
+reservedOpNames	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^    reservedOpNames:: [String],$/;"	c_a	line:95	language:Haskell
+runP	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^runP :: (Stream s Identity t)$/;"	ft	line:634	language:Haskell
+runPT	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^runPT :: (Stream s m t)$/;"	ft	line:620	language:Haskell
+runParsecT	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^runParsecT :: Monad m => ParsecT s u m a -> State s u -> m (Consumed (m (Reply s u a)))$/;"	ft	line:136	language:Haskell
+runParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^runParser :: (Stream s Identity t)$/;"	ft	line:661	language:Haskell
+runParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Prim.hs	/^runParser :: GenParser tok st a$/;"	ft	line:57	language:Haskell
+runParserT	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^runParserT :: (Stream s m t)$/;"	ft	line:645	language:Haskell
+s	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Expr.hs	/^type OperatorTable s u m a = [[Operator s u m a]]$/;"	fi	line:54	language:Haskell
+s	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^type Parsec s u = ParsecT s u Identity$/;"	fi	line:159	language:Haskell
+satisfy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^satisfy :: (Stream s m Char) => (Char -> Bool) -> ParsecT s u m Char$/;"	ft	line:139	language:Haskell
+semi	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        semi             :: ParsecT s u m String,$/;"	c_a	line:272	language:Haskell
+semiSep	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        semiSep          :: forall a . ParsecT s u m a -> ParsecT s u m [a],$/;"	c_a	line:293	language:Haskell
+semiSep1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        semiSep1         :: forall a . ParsecT s u m a -> ParsecT s u m [a],$/;"	c_a	line:298	language:Haskell
+sepBy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^sepBy :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m sep -> ParsecT s u m [a]$/;"	ft	line:110	language:Haskell
+sepBy1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^sepBy1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m sep -> ParsecT s u m [a]$/;"	ft	line:116	language:Haskell
+sepEndBy	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^sepEndBy :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m sep -> ParsecT s u m [a]$/;"	ft	line:142	language:Haskell
+sepEndBy1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^sepEndBy1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m sep -> ParsecT s u m [a]$/;"	ft	line:127	language:Haskell
+setErrorMessage	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^setErrorMessage :: Message -> ParseError -> ParseError$/;"	ft	line:135	language:Haskell
+setErrorPos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^setErrorPos :: SourcePos -> ParseError -> ParseError$/;"	ft	line:131	language:Haskell
+setInput	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^setInput :: (Monad m) => s -> ParsecT s u m ()$/;"	ft	line:717	language:Haskell
+setParserState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^setParserState :: (Monad m) => State s u -> ParsecT s u m (State s u)$/;"	ft	line:729	language:Haskell
+setPosition	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^setPosition :: (Monad m) => SourcePos -> ParsecT s u m ()$/;"	ft	line:708	language:Haskell
+setSourceColumn	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^setSourceColumn :: SourcePos -> Column -> SourcePos$/;"	ft	line:94	language:Haskell
+setSourceLine	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^setSourceLine :: SourcePos -> Line -> SourcePos$/;"	ft	line:89	language:Haskell
+setSourceName	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^setSourceName :: SourcePos -> SourceName -> SourcePos$/;"	ft	line:84	language:Haskell
+setState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^setState :: (Monad m) => u -> ParsecT s u m ()$/;"	ft	line:770	language:Haskell
+showErrorMessages	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Error.hs	/^showErrorMessages ::$/;"	ft	line:176	language:Haskell
+skipMany	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^skipMany :: ParsecT s u m a -> ParsecT s u m ()$/;"	ft	line:597	language:Haskell
+skipMany1	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Combinator.hs	/^skipMany1 :: (Stream s m t) => ParsecT s u m a -> ParsecT s u m ()$/;"	ft	line:80	language:Haskell
+sourceColumn	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^sourceColumn :: SourcePos -> Column$/;"	ft	line:69	language:Haskell
+sourceLine	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^sourceLine :: SourcePos -> Line$/;"	ft	line:64	language:Haskell
+sourceName	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^sourceName :: SourcePos -> SourceName$/;"	ft	line:59	language:Haskell
+space	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^space :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:50	language:Haskell
+spaces	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^spaces :: (Stream s m Char) => ParsecT s u m ()$/;"	ft	line:44	language:Haskell
+squares	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        squares          :: forall a. ParsecT s u m a -> ParsecT s u m a,$/;"	c_a	line:267	language:Haskell
+st	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text.hs	/^type GenParser st = Parsec Text.Text st$/;"	fi	line:24	language:Haskell
+st	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Text/Lazy.hs	/^type GenParser st = Parsec Text.Text st$/;"	fi	line:24	language:Haskell
+st	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^type LanguageDef st = GenLanguageDef String st Identity$/;"	fi	line:39	language:Haskell
+st	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Char.hs	/^type CharParser st = GenParser Char st$/;"	fi	line:40	language:Haskell
+stateInput	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^      stateInput :: s,$/;"	c_a	line:170	language:Haskell
+statePos	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^      statePos   :: !SourcePos,$/;"	c_a	line:171	language:Haskell
+stateUser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^      stateUser  :: !u$/;"	c_a	line:172	language:Haskell
+string	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^string :: (Stream s m Char) => String -> ParsecT s u m String$/;"	ft	line:150	language:Haskell
+stringLiteral	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        stringLiteral    :: ParsecT s u m String,$/;"	c_a	line:165	language:Haskell
+symbol	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        symbol           :: String -> ParsecT s u m String,$/;"	c_a	line:217	language:Haskell
+sysUnExpectError	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^sysUnExpectError :: String -> SourcePos -> Reply s u a$/;"	ft	line:96	language:Haskell
+t	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString.hs	/^type GenParser t st = Parsec C.ByteString st$/;"	fi	line:25	language:Haskell
+t	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/ByteString/Lazy.hs	/^type GenParser t st = Parsec C.ByteString st$/;"	fi	line:25	language:Haskell
+tab	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^tab :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:75	language:Haskell
+testBatch	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug35.hs	/^testBatch :: Assertion$/;"	ft	line:35	language:Haskell
+tok	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Perm.hs	/^type PermParser tok st a = StreamPermParser String st a$/;"	fi	line:115	language:Haskell
+tok	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/String.hs	/^type GenParser tok st = Parsec [tok] st$/;"	fi	line:23	language:Haskell
+tok	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Expr.hs	/^type OperatorTable tok st a = [[Operator tok st a]]$/;"	fi	line:33	language:Haskell
+token	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^token :: (Stream s Identity t)$/;"	ft	line:507	language:Haskell
+tokenPrim	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^tokenPrim :: (Stream s m t)$/;"	ft	line:535	language:Haskell
+tokenPrimEx	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^tokenPrimEx :: (Stream s m t)$/;"	ft	line:543	language:Haskell
+tokens	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^tokens :: (Stream s m t, Eq t)$/;"	ft	line:406	language:Haskell
+trickyFloats	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug35.hs	/^trickyFloats :: [String]$/;"	ft	line:13	language:Haskell
+try	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^try :: ParsecT s u m a -> ParsecT s u m a$/;"	ft	line:474	language:Haskell
+try	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/ParserCombinators/Parsec/Prim.hs	/^try :: GenParser tok st a -> GenParser tok st a$/;"	ft	line:64	language:Haskell
+unParser	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^    = ParsecT {unParser :: forall b .$/;"	c_a	line:120	language:Haskell
+uncons	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^    uncons :: s -> m (Maybe (t,s))$/;"	ft	line:383	language:Haskell
+unexpectError	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^unexpectError msg pos = newErrorMessage (SysUnExpect msg) pos$/;"	fi	line:576	language:Haskell
+unexpected	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^unexpected :: (Stream s m t) => String -> ParsecT s u m a$/;"	ft	line:107	language:Haskell
+unknownError	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^unknownError :: State s u -> ParseError$/;"	ft	line:93	language:Haskell
+updateParserState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^updateParserState :: (State s u -> State s u) -> ParsecT s u m (State s u)$/;"	ft	line:734	language:Haskell
+updatePosChar	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^updatePosChar   :: SourcePos -> Char -> SourcePos$/;"	ft	line:112	language:Haskell
+updatePosString	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Pos.hs	/^updatePosString :: SourcePos -> String -> SourcePos$/;"	ft	line:101	language:Haskell
+updateState	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Prim.hs	/^updateState :: (Monad m) => (u -> u) -> ParsecT s u m ()$/;"	ft	line:775	language:Haskell
+upper	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Char.hs	/^upper :: (Stream s m Char) => ParsecT s u m Char$/;"	ft	line:81	language:Haskell
+variable	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/test/Bugs/Bug6.hs	/^variable :: Parser String$/;"	ft	line:20	language:Haskell
+whiteSpace	/Users/parkinwu/.stack/indices/Hackage/packages/parsec/3.1.11/parsec-3.1.11/Text/Parsec/Token.hs	/^        whiteSpace       :: ParsecT s u m (),$/;"	c_a	line:243	language:Haskell
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_NAME	hasktags
 !Word64	/Users/parkinwu/.stack/indices/Hackage/packages/text/1.2.2.1/text-1.2.2.1/Data/Text/Internal/Search.hs	/^data T = {-# UNPACK #-} !Word64 :* {-# UNPACK #-} !Int$/;"	d	line:40	language:Haskell
 !a	/Users/parkinwu/.stack/indices/Hackage/packages/text/1.2.2.1/text-1.2.2.1/Data/Text/Internal/Fusion/Types.hs	/^data PairS a b = !a :*: !b$/;"	d	line:45	language:Haskell
 (	/Users/parkinwu/.stack/indices/Hackage/packages/text/1.2.2.1/text-1.2.2.1/Data/Text/Internal/Builder/Functions.hs	/^(<>) = mappend$/;"	fi	line:37	language:Haskell
@@ -11891,23 +12251,428 @@ zipWith	/Users/parkinwu/.stack/indices/Hackage/packages/text/1.2.2.1/text-1.2.2.
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 !_TAG_PROGRAM_NAME	hasktags
-EitherIO	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^data EitherIO e a = EitherIO {$/;"	d	line:9	language:Haskell
-InvaildEmail	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^data LoginError = InvaildEmail$/;"	d	line:25	language:Haskell
+Backwards	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Backwards.hs	/^newtype Backwards f a = Backwards { forwards :: f a }$/;"	nt	line:38	language:Haskell
+CallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type CallCC m a b = ((a -> m b) -> m a) -> m a$/;"	t	line:32	language:Haskell
+Catch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type Catch e m a = m a -> (e -> m a) -> m a$/;"	t	line:40	language:Haskell
+Compose	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^infixr 9 `Compose`$/;"	fi	line:49	language:Haskell
+Constant	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Constant.hs	/^newtype Constant a b = Constant { getConstant :: a }$/;"	nt	line:39	language:Haskell
+Cont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^type Cont r = ContT r Identity$/;"	t	line:69	language:Haskell
+ContT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^newtype ContT r m a = ContT { runContT :: (a -> m r) -> m r }$/;"	nt	line:135	language:Haskell
+Control.Applicative.Backwards	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Backwards.hs	/^module Control.Applicative.Backwards ($/;"	m	line:25	language:Haskell
+Control.Applicative.Lift	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^module Control.Applicative.Lift ($/;"	m	line:21	language:Haskell
+Control.Monad.IO.Class	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Control/Monad/IO/Class.hs	/^module Control.Monad.IO.Class ($/;"	m	line:23	language:Haskell
+Control.Monad.Signatures	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^module Control.Monad.Signatures ($/;"	m	line:22	language:Haskell
+Control.Monad.Trans.Class	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Class.hs	/^module Control.Monad.Trans.Class ($/;"	m	line:28	language:Haskell
+Control.Monad.Trans.Cont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^module Control.Monad.Trans.Cont ($/;"	m	line:29	language:Haskell
+Control.Monad.Trans.Error	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^module Control.Monad.Trans.Error$/;"	m	line:39	language:Haskell
+Control.Monad.Trans.Except	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^module Control.Monad.Trans.Except ($/;"	m	line:29	language:Haskell
+Control.Monad.Trans.Identity	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^module Control.Monad.Trans.Identity ($/;"	m	line:26	language:Haskell
+Control.Monad.Trans.List	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^module Control.Monad.Trans.List ($/;"	m	line:23	language:Haskell
+Control.Monad.Trans.Maybe	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^module Control.Monad.Trans.Maybe ($/;"	m	line:29	language:Haskell
+Control.Monad.Trans.RWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS.hs	/^module Control.Monad.Trans.RWS ($/;"	m	line:21	language:Haskell
+Control.Monad.Trans.RWS.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^module Control.Monad.Trans.RWS.Lazy ($/;"	m	line:24	language:Haskell
+Control.Monad.Trans.RWS.Strict	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^module Control.Monad.Trans.RWS.Strict ($/;"	m	line:24	language:Haskell
+Control.Monad.Trans.Reader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^module Control.Monad.Trans.Reader ($/;"	m	line:29	language:Haskell
+Control.Monad.Trans.State	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State.hs	/^module Control.Monad.Trans.State ($/;"	m	line:29	language:Haskell
+Control.Monad.Trans.State.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^module Control.Monad.Trans.State.Lazy ($/;"	m	line:38	language:Haskell
+Control.Monad.Trans.State.Strict	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^module Control.Monad.Trans.State.Strict ($/;"	m	line:35	language:Haskell
+Control.Monad.Trans.Writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer.hs	/^module Control.Monad.Trans.Writer ($/;"	m	line:21	language:Haskell
+Control.Monad.Trans.Writer.Lazy	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^module Control.Monad.Trans.Writer.Lazy ($/;"	m	line:30	language:Haskell
+Control.Monad.Trans.Writer.Strict	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^module Control.Monad.Trans.Writer.Strict ($/;"	m	line:33	language:Haskell
+Data.Functor.Classes	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^module Data.Functor.Classes ($/;"	m	line:41	language:Haskell
+Data.Functor.Compose	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^module Data.Functor.Compose ($/;"	m	line:33	language:Haskell
+Data.Functor.Constant	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Constant.hs	/^module Data.Functor.Constant ($/;"	m	line:24	language:Haskell
+Data.Functor.Identity	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre709/Data/Functor/Identity.hs	/^module Data.Functor.Identity ($/;"	m	line:40	language:Haskell
+Data.Functor.Product	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Product.hs	/^module Data.Functor.Product ($/;"	m	line:33	language:Haskell
+Data.Functor.Reverse	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Reverse.hs	/^module Data.Functor.Reverse ($/;"	m	line:25	language:Haskell
+Data.Functor.Sum	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^module Data.Functor.Sum ($/;"	m	line:33	language:Haskell
+Eq1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class Eq1 f where$/;"	c	line:78	language:Haskell
+Eq2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class Eq2 f where$/;"	c	line:171	language:Haskell
+Error	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^class Error a where$/;"	c	line:130	language:Haskell
+ErrorList	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^class ErrorList a where$/;"	c	line:149	language:Haskell
+ErrorT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^newtype ErrorT e m a = ErrorT { runErrorT :: m (Either e a) }$/;"	nt	line:166	language:Haskell
+Errors	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^type Errors e = Lift (Constant e)$/;"	t	line:132	language:Haskell
+Except	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^type Except e = ExceptT e Identity$/;"	t	line:76	language:Haskell
+ExceptT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^newtype ExceptT e m a = ExceptT (m (Either e a))$/;"	nt	line:116	language:Haskell
+Identity	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre709/Data/Functor/Identity.hs	/^newtype Identity a = Identity { runIdentity :: a }$/;"	nt	line:62	language:Haskell
+IdentityT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^newtype IdentityT f a = IdentityT { runIdentityT :: f a }$/;"	nt	line:53	language:Haskell
+InL	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^data Sum f g a = InL (f a) | InR (g a)$/;"	d	line:50	language:Haskell
+InR	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^data Sum f g a = InL (f a) | InR (g a)$/;"	cons	line:50	language:Haskell
+Lift	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^data Lift f a = Pure a | Other (f a)$/;"	d	line:42	language:Haskell
+ListT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^newtype ListT m a = ListT { runListT :: m [a] }$/;"	nt	line:51	language:Haskell
+Listen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type Listen w m a = m a -> m (a, w)$/;"	t	line:48	language:Haskell
+MCCompose	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^data MCCompose$/;"	d	line:68	language:Haskell
+MCInL	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^data MCInL$/;"	d	line:65	language:Haskell
+MCInR	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^data MCInR$/;"	d	line:66	language:Haskell
+MCPair	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Product.hs	/^data MCPair$/;"	d	line:69	language:Haskell
+MDCompose	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^data MDCompose$/;"	d	line:67	language:Haskell
+MDProduct	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Product.hs	/^data MDProduct$/;"	d	line:68	language:Haskell
+MDSum	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^data MDSum$/;"	d	line:64	language:Haskell
+MSCompose	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^data MSCompose$/;"	d	line:69	language:Haskell
+MaybeT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^newtype MaybeT m a = MaybeT { runMaybeT :: m (Maybe a) }$/;"	nt	line:70	language:Haskell
+MonadIO	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Control/Monad/IO/Class.hs	/^class (Monad m) => MonadIO m where$/;"	c	line:42	language:Haskell
+MonadTrans	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Class.hs	/^class MonadTrans t where$/;"	c	line:56	language:Haskell
+Ord1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class (Eq1 f) => Ord1 f where$/;"	c	line:96	language:Haskell
+Ord2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class (Eq2 f) => Ord2 f where$/;"	c	line:189	language:Haskell
+Other	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^data Lift f a = Pure a | Other (f a)$/;"	cons	line:42	language:Haskell
+Pair	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Product.hs	/^data Product f g a = Pair (f a) (g a)$/;"	d	line:55	language:Haskell
+Pass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type Pass w m a =  m (a, w -> w) -> m a$/;"	t	line:56	language:Haskell
+Product	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Product.hs	/^data Product f g a = Pair (f a) (g a)$/;"	d	line:55	language:Haskell
+Pure	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^data Lift f a = Pure a | Other (f a)$/;"	d	line:42	language:Haskell
+RWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^type RWS r w s = RWST r w s Identity$/;"	t	line:78	language:Haskell
+RWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^type RWS r w s = RWST r w s Identity$/;"	t	line:78	language:Haskell
+RWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^newtype RWST r w s m a = RWST { runRWST :: r -> s -> m (a, s, w) }$/;"	nt	line:134	language:Haskell
+RWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^newtype RWST r w s m a = RWST { runRWST :: r -> s -> m (a, s, w) }$/;"	nt	line:134	language:Haskell
+Read1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class Read1 f where$/;"	c	line:114	language:Haskell
+Read2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class Read2 f where$/;"	c	line:208	language:Haskell
+Reader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^type Reader r = ReaderT r Identity$/;"	t	line:73	language:Haskell
+ReaderT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^newtype ReaderT r m a = ReaderT { runReaderT :: r -> m a }$/;"	nt	line:112	language:Haskell
+Reverse	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Reverse.hs	/^newtype Reverse f a = Reverse { getReverse :: f a }$/;"	nt	line:40	language:Haskell
+Show1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class Show1 f where$/;"	c	line:147	language:Haskell
+Show2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^class Show2 f where$/;"	c	line:232	language:Haskell
+State	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^type State s = StateT s Identity$/;"	t	line:94	language:Haskell
+State	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^type State s = StateT s Identity$/;"	t	line:91	language:Haskell
+StateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^newtype StateT s m a = StateT { runStateT :: s -> m (a,s) }$/;"	nt	line:158	language:Haskell
+StateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^newtype StateT s m a = StateT { runStateT :: s -> m (a,s) }$/;"	nt	line:155	language:Haskell
+Sum	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^data Sum f g a = InL (f a) | InR (g a)$/;"	d	line:50	language:Haskell
+Writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^type Writer w = WriterT w Identity$/;"	t	line:76	language:Haskell
+Writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^type Writer w = WriterT w Identity$/;"	t	line:79	language:Haskell
+WriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^newtype WriterT w m a = WriterT { runWriterT :: m (a, w) }$/;"	nt	line:114	language:Haskell
+WriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^newtype WriterT w m a = WriterT { runWriterT :: m (a, w) }$/;"	nt	line:117	language:Haskell
+ask	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^ask :: (Monoid w, Monad m) => RWST r w s m r$/;"	ft	line:243	language:Haskell
+ask	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^ask :: (Monoid w, Monad m) => RWST r w s m r$/;"	ft	line:243	language:Haskell
+ask	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^ask :: (Monad m) => ReaderT r m r$/;"	ft	line:196	language:Haskell
+asks	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^asks :: (Monoid w, Monad m) => (r -> a) -> RWST r w s m a$/;"	ft	line:257	language:Haskell
+asks	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^asks :: (Monoid w, Monad m) => (r -> a) -> RWST r w s m a$/;"	ft	line:257	language:Haskell
+asks	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^asks :: (Monad m)$/;"	ft	line:214	language:Haskell
+callCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^callCC :: ((a -> ContT r m b) -> ContT r m a) -> ContT r m a$/;"	ft	line:210	language:Haskell
+catchE	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^catchE :: (Monad m) =>$/;"	ft	line:270	language:Haskell
+catchError	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^catchError :: (Monad m) =>$/;"	ft	line:279	language:Haskell
+catchIOError	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^catchIOError :: IO a -> (IOError -> IO a) -> IO a$/;"	ft	line:90	language:Haskell
+censor	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^censor :: (Monad m) => (w -> w) -> RWST r w s m a -> RWST r w s m a$/;"	ft	line:314	language:Haskell
+censor	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^censor :: (Monad m) => (w -> w) -> RWST r w s m a -> RWST r w s m a$/;"	ft	line:314	language:Haskell
+censor	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^censor :: (Monad m) => (w -> w) -> WriterT w m a -> WriterT w m a$/;"	ft	line:280	language:Haskell
+censor	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^censor :: (Monad m) => (w -> w) -> WriterT w m a -> WriterT w m a$/;"	ft	line:283	language:Haskell
+compare1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^compare1 :: (Ord1 f, Ord a) => f a -> f a -> Ordering$/;"	ft	line:110	language:Haskell
+compare2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^compare2 :: (Ord2 f, Ord a, Ord b) => f a b -> f a b -> Ordering$/;"	ft	line:204	language:Haskell
+cont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^cont :: ((a -> r) -> r) -> Cont r a$/;"	ft	line:73	language:Haskell
+e	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^type Errors e = Lift (Constant e)$/;"	fi	line:132	language:Haskell
+e	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type Catch e m a = m a -> (e -> m a) -> m a$/;"	fi	line:40	language:Haskell
+e	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^type Except e = ExceptT e Identity$/;"	fi	line:76	language:Haskell
+eq1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^eq1 :: (Eq1 f, Eq a) => f a -> f a -> Bool$/;"	ft	line:92	language:Haskell
+eq2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^eq2 :: (Eq2 f, Eq a, Eq b) => f a b -> f a b -> Bool$/;"	ft	line:185	language:Haskell
+evalCont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^evalCont :: Cont r r -> r$/;"	ft	line:91	language:Haskell
+evalContT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^evalContT :: (Monad m) => ContT r m r -> m r$/;"	ft	line:141	language:Haskell
+evalRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^evalRWS :: RWS r w s a  -- ^RWS computation to execute$/;"	ft	line:94	language:Haskell
+evalRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^evalRWS :: RWS r w s a  -- ^RWS computation to execute$/;"	ft	line:94	language:Haskell
+evalRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^evalRWST :: (Monad m)$/;"	ft	line:138	language:Haskell
+evalRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^evalRWST :: (Monad m)$/;"	ft	line:138	language:Haskell
+evalState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^evalState :: State s a  -- ^state-passing computation to execute$/;"	ft	line:116	language:Haskell
+evalState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^evalState :: State s a  -- ^state-passing computation to execute$/;"	ft	line:113	language:Haskell
+evalStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^evalStateT :: (Monad m) => StateT s m a -> s -> m a$/;"	ft	line:164	language:Haskell
+evalStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^evalStateT :: (Monad m) => StateT s m a -> s -> m a$/;"	ft	line:161	language:Haskell
+except	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^except :: Either e a -> Except e a$/;"	ft	line:80	language:Haskell
+exceptToMaybeT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^exceptToMaybeT :: (Functor m) => ExceptT e m a -> MaybeT m a$/;"	ft	line:114	language:Haskell
+execRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^execRWS :: RWS r w s a  -- ^RWS computation to execute$/;"	ft	line:105	language:Haskell
+execRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^execRWS :: RWS r w s a  -- ^RWS computation to execute$/;"	ft	line:105	language:Haskell
+execRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^execRWST :: (Monad m)$/;"	ft	line:150	language:Haskell
+execRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^execRWST :: (Monad m)$/;"	ft	line:150	language:Haskell
+execState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^execState :: State s a  -- ^state-passing computation to execute$/;"	ft	line:126	language:Haskell
+execState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^execState :: State s a  -- ^state-passing computation to execute$/;"	ft	line:123	language:Haskell
+execStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^execStateT :: (Monad m) => StateT s m a -> s -> m s$/;"	ft	line:174	language:Haskell
+execStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^execStateT :: (Monad m) => StateT s m a -> s -> m s$/;"	ft	line:171	language:Haskell
+execWriter	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^execWriter :: Writer w a -> w$/;"	ft	line:93	language:Haskell
+execWriter	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^execWriter :: Writer w a -> w$/;"	ft	line:96	language:Haskell
+execWriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^execWriterT :: (Monad m) => WriterT w m a -> m w$/;"	ft	line:149	language:Haskell
+execWriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^execWriterT :: (Monad m) => WriterT w m a -> m w$/;"	ft	line:152	language:Haskell
+failure	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^failure :: e -> Errors e a$/;"	ft	line:146	language:Haskell
+forwards	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Backwards.hs	/^newtype Backwards f a = Backwards { forwards :: f a }$/;"	c_a	line:38	language:Haskell
+get	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^get :: (Monoid w, Monad m) => RWST r w s m s$/;"	ft	line:329	language:Haskell
+get	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^get :: (Monoid w, Monad m) => RWST r w s m s$/;"	ft	line:329	language:Haskell
+get	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^get :: (Monad m) => StateT s m s$/;"	ft	line:255	language:Haskell
+get	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^get :: (Monad m) => StateT s m s$/;"	ft	line:252	language:Haskell
+getCompose	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^newtype Compose f g a = Compose { getCompose :: f (g a) }$/;"	c_a	line:54	language:Haskell
+getConstant	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Constant.hs	/^newtype Constant a b = Constant { getConstant :: a }$/;"	c_a	line:39	language:Haskell
+getReverse	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Reverse.hs	/^newtype Reverse f a = Reverse { getReverse :: f a }$/;"	c_a	line:40	language:Haskell
+gets	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^gets :: (Monoid w, Monad m) => (s -> a) -> RWST r w s m a$/;"	ft	line:350	language:Haskell
+gets	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^gets :: (Monoid w, Monad m) => (s -> a) -> RWST r w s m a$/;"	ft	line:350	language:Haskell
+gets	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^gets :: (Monad m) => (s -> a) -> StateT s m a$/;"	ft	line:286	language:Haskell
+gets	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^gets :: (Monad m) => (s -> a) -> StateT s m a$/;"	ft	line:283	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Backwards.hs	/^instance (Eq1 f) => Eq1 (Backwards f) where$/;"	fi	line:40	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^instance (Eq1 f) => Eq1 (Lift f) where$/;"	fi	line:44	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^instance Functor (ContT r m) where$/;"	fi	line:163	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^instance MonadPlus IO where$/;"	fi	line:80	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^instance (Eq e, Eq1 m) => Eq1 (ExceptT e m) where$/;"	fi	line:118	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^instance (Eq1 f) => Eq1 (IdentityT f) where$/;"	fi	line:55	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^instance (Eq1 m) => Eq1 (ListT m) where$/;"	fi	line:53	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^instance (Eq1 m) => Eq1 (MaybeT m) where$/;"	fi	line:72	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^instance (Functor m) => Functor (RWST r w s m) where$/;"	fi	line:175	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^instance (Functor m) => Functor (RWST r w s m) where$/;"	fi	line:175	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^instance (Functor m) => Functor (ReaderT r m) where$/;"	fi	line:132	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^instance (Functor m) => Functor (StateT s m) where$/;"	fi	line:196	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^instance (Functor m) => Functor (StateT s m) where$/;"	fi	line:193	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^instance (Eq w, Eq1 m) => Eq1 (WriterT w m) where$/;"	fi	line:116	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^instance (Eq w, Eq1 m) => Eq1 (WriterT w m) where$/;"	fi	line:119	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Constant.hs	/^instance (Read a) => Read (Constant a b) where$/;"	fi	line:45	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Data/Functor/Reverse.hs	/^instance (Eq1 f) => Eq1 (Reverse f) where$/;"	fi	line:42	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre709/Data/Functor/Identity.hs	/^instance (Bounded a) => Bounded (Identity a) where$/;"	fi	line:75	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Control/Monad/IO/Class.hs	/^instance MonadIO IO where$/;"	fi	line:50	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^instance Eq1 Maybe where$/;"	fi	line:257	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Compose.hs	/^instance Functor f => Generic1 (Compose f g) where$/;"	fi	line:59	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Product.hs	/^instance Generic1 (Product f g) where$/;"	fi	line:60	language:Haskell
+instance	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Sum.hs	/^instance Generic1 (Sum f g) where$/;"	fi	line:55	language:Haskell
+lift	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Class.hs	/^    lift :: (Monad m) => m a -> t m a$/;"	ft	line:58	language:Haskell
+lift2IdentityT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^lift2IdentityT ::$/;"	ft	line:146	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^liftCallCC :: CallCC m (Either e a) (Either e b) -> CallCC (ErrorT e m) a b$/;"	ft	line:291	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^liftCallCC :: CallCC m (Either e a) (Either e b) -> CallCC (ExceptT e m) a b$/;"	ft	line:283	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^liftCallCC :: CallCC m a b -> CallCC (IdentityT m) a b$/;"	ft	line:152	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^liftCallCC :: CallCC m [a] [b] -> CallCC (ListT m) a b$/;"	ft	line:156	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^liftCallCC :: CallCC m (Maybe a) (Maybe b) -> CallCC (MaybeT m) a b$/;"	ft	line:204	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^liftCallCC :: (Monoid w) =>$/;"	ft	line:357	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^liftCallCC :: (Monoid w) =>$/;"	ft	line:357	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^liftCallCC :: CallCC m a b -> CallCC (ReaderT r m) a b$/;"	ft	line:221	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^liftCallCC :: CallCC m (a,s) (b,s) -> CallCC (StateT s m) a b$/;"	ft	line:293	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^liftCallCC :: CallCC m (a,s) (b,s) -> CallCC (StateT s m) a b$/;"	ft	line:290	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^liftCallCC :: (Monoid w) => CallCC m (a,w) (b,w) -> CallCC (WriterT w m) a b$/;"	ft	line:287	language:Haskell
+liftCallCC	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^liftCallCC :: (Monoid w) => CallCC m (a,w) (b,w) -> CallCC (WriterT w m) a b$/;"	ft	line:290	language:Haskell
+liftCallCC'	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^liftCallCC' :: (Monoid w) =>$/;"	ft	line:366	language:Haskell
+liftCallCC'	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^liftCallCC' :: (Monoid w) =>$/;"	ft	line:366	language:Haskell
+liftCallCC'	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^liftCallCC' :: CallCC m (a,s) (b,s) -> CallCC (StateT s m) a b$/;"	ft	line:302	language:Haskell
+liftCallCC'	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^liftCallCC' :: CallCC m (a,s) (b,s) -> CallCC (StateT s m) a b$/;"	ft	line:299	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^liftCatch :: Catch e m a -> Catch e (IdentityT m) a$/;"	ft	line:158	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^liftCatch :: Catch e m [a] -> Catch e (ListT m) a$/;"	ft	line:163	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^liftCatch :: Catch e m (Maybe a) -> Catch e (MaybeT m) a$/;"	ft	line:210	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^liftCatch :: Catch e m (a,s,w) -> Catch e (RWST r w s m) a$/;"	ft	line:374	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^liftCatch :: Catch e m (a,s,w) -> Catch e (RWST r w s m) a$/;"	ft	line:374	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^liftCatch :: Catch e m a -> Catch e (ReaderT r m) a$/;"	ft	line:228	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^liftCatch :: Catch e m (a,s) -> Catch e (StateT s m) a$/;"	ft	line:309	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^liftCatch :: Catch e m (a,s) -> Catch e (StateT s m) a$/;"	ft	line:306	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^liftCatch :: Catch e m (a,w) -> Catch e (WriterT w m) a$/;"	ft	line:294	language:Haskell
+liftCatch	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^liftCatch :: Catch e m (a,w) -> Catch e (WriterT w m) a$/;"	ft	line:297	language:Haskell
+liftCompare	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftCompare :: (a -> b -> Ordering) -> f a -> f b -> Ordering$/;"	ft	line:103	language:Haskell
+liftCompare2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftCompare2 :: (a -> b -> Ordering) -> (c -> d -> Ordering) ->$/;"	ft	line:196	language:Haskell
+liftEq	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftEq :: (a -> b -> Bool) -> f a -> f b -> Bool$/;"	ft	line:85	language:Haskell
+liftEq2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftEq2 :: (a -> b -> Bool) -> (c -> d -> Bool) -> f a c -> f b d -> Bool$/;"	ft	line:178	language:Haskell
+liftIO	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Control/Monad/IO/Class.hs	/^    liftIO :: IO a -> m a$/;"	ft	line:44	language:Haskell
+liftListen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^liftListen :: (Monad m) => Listen w m (Either e a) -> Listen w (ErrorT e m) a$/;"	ft	line:297	language:Haskell
+liftListen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^liftListen :: (Monad m) => Listen w m (Either e a) -> Listen w (ExceptT e m) a$/;"	ft	line:290	language:Haskell
+liftListen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^liftListen :: (Monad m) => Listen w m (Maybe a) -> Listen w (MaybeT m) a$/;"	ft	line:215	language:Haskell
+liftListen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^liftListen :: (Monad m) => Listen w m (a,s) -> Listen w (StateT s m) a$/;"	ft	line:315	language:Haskell
+liftListen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^liftListen :: (Monad m) => Listen w m (a,s) -> Listen w (StateT s m) a$/;"	ft	line:312	language:Haskell
+liftLocal	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^liftLocal :: (Monad m) => m r' -> ((r' -> r') -> m r -> m r) ->$/;"	ft	line:232	language:Haskell
+liftPass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^liftPass :: (Monad m) => Pass w m (Either e a) -> Pass w (ErrorT e m) a$/;"	ft	line:303	language:Haskell
+liftPass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^liftPass :: (Monad m) => Pass w m (Either e a) -> Pass w (ExceptT e m) a$/;"	ft	line:297	language:Haskell
+liftPass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^liftPass :: (Monad m) => Pass w m (Maybe a) -> Pass w (MaybeT m) a$/;"	ft	line:222	language:Haskell
+liftPass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^liftPass :: (Monad m) => Pass w m (a,s) -> Pass w (StateT s m) a$/;"	ft	line:322	language:Haskell
+liftPass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^liftPass :: (Monad m) => Pass w m (a,s) -> Pass w (StateT s m) a$/;"	ft	line:319	language:Haskell
+liftReadList	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftReadList :: (Int -> ReadS a) -> ReadS [a] -> ReadS [f a]$/;"	ft	line:123	language:Haskell
+liftReadList2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftReadList2 :: (Int -> ReadS a) -> ReadS [a] ->$/;"	ft	line:218	language:Haskell
+liftReaderT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^liftReaderT :: m a -> ReaderT r m a$/;"	ft	line:191	language:Haskell
+liftReadsPrec	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftReadsPrec :: (Int -> ReadS a) -> ReadS [a] -> Int -> ReadS (f a)$/;"	ft	line:117	language:Haskell
+liftReadsPrec2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftReadsPrec2 :: (Int -> ReadS a) -> ReadS [a] ->$/;"	ft	line:211	language:Haskell
+liftShowList	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftShowList :: (Int -> a -> ShowS) -> ([a] -> ShowS) ->$/;"	ft	line:157	language:Haskell
+liftShowList2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftShowList2 :: (Int -> a -> ShowS) -> ([a] -> ShowS) ->$/;"	ft	line:242	language:Haskell
+liftShowsPrec	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftShowsPrec :: (Int -> a -> ShowS) -> ([a] -> ShowS) ->$/;"	ft	line:150	language:Haskell
+liftShowsPrec2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^    liftShowsPrec2 :: (Int -> a -> ShowS) -> ([a] -> ShowS) ->$/;"	ft	line:235	language:Haskell
+listMsg	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^    listMsg :: String -> [a]$/;"	ft	line:150	language:Haskell
+listen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^listen :: (Monad m) => RWST r w s m a -> RWST r w s m (a, w)$/;"	ft	line:278	language:Haskell
+listen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^listen :: (Monad m) => RWST r w s m a -> RWST r w s m (a, w)$/;"	ft	line:278	language:Haskell
+listen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^listen :: (Monad m) => WriterT w m a -> WriterT w m (a, w)$/;"	ft	line:244	language:Haskell
+listen	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^listen :: (Monad m) => WriterT w m a -> WriterT w m (a, w)$/;"	ft	line:247	language:Haskell
+listens	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^listens :: (Monad m) => (w -> b) -> RWST r w s m a -> RWST r w s m (a, b)$/;"	ft	line:290	language:Haskell
+listens	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^listens :: (Monad m) => (w -> b) -> RWST r w s m a -> RWST r w s m (a, b)$/;"	ft	line:290	language:Haskell
+listens	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^listens :: (Monad m) => (w -> b) -> WriterT w m a -> WriterT w m (a, b)$/;"	ft	line:256	language:Haskell
+listens	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^listens :: (Monad m) => (w -> b) -> WriterT w m a -> WriterT w m (a, b)$/;"	ft	line:259	language:Haskell
+local	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^local :: (r -> r) -> RWST r w s m a -> RWST r w s m a$/;"	ft	line:250	language:Haskell
+local	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^local :: (r -> r) -> RWST r w s m a -> RWST r w s m a$/;"	ft	line:250	language:Haskell
+local	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^local = withReaderT$/;"	fi	line:208	language:Haskell
+m	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type CallCC m a b = ((a -> m b) -> m a) -> m a$/;"	fi	line:32	language:Haskell
+m	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Class.hs	/^    lift :: (Monad m) => m a -> t m a$/;"	c	line:58	language:Haskell
+main	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Setup.hs	/^main = defaultMain$/;"	fi	line:2	language:Haskell
+mapCont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^mapCont :: (r -> r) -> Cont r a -> Cont r a$/;"	ft	line:99	language:Haskell
+mapContT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^mapContT :: (m r -> m r) -> ContT r m a -> ContT r m a$/;"	ft	line:151	language:Haskell
+mapErrorT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^mapErrorT :: (m (Either e a) -> n (Either e' b))$/;"	ft	line:198	language:Haskell
+mapExcept	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^mapExcept :: (Either e a -> Either e' b)$/;"	ft	line:93	language:Haskell
+mapExceptT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^mapExceptT :: (m (Either e a) -> n (Either e' b))$/;"	ft	line:158	language:Haskell
+mapIdentityT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^mapIdentityT :: (m a -> n b) -> IdentityT m a -> IdentityT n b$/;"	ft	line:141	language:Haskell
+mapLift	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^mapLift :: (f a -> g a) -> Lift f a -> Lift g a$/;"	ft	line:114	language:Haskell
+mapListT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^mapListT :: (m [a] -> n [b]) -> ListT m a -> ListT n b$/;"	ft	line:83	language:Haskell
+mapMaybeT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^mapMaybeT :: (m (Maybe a) -> n (Maybe b)) -> MaybeT m a -> MaybeT n b$/;"	ft	line:102	language:Haskell
+mapRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^mapRWS :: ((a, s, w) -> (b, s, w')) -> RWS r w s a -> RWS r w' s b$/;"	ft	line:118	language:Haskell
+mapRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^mapRWS :: ((a, s, w) -> (b, s, w')) -> RWS r w s a -> RWS r w' s b$/;"	ft	line:118	language:Haskell
+mapRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^mapRWST :: (m (a, s, w) -> n (b, s, w')) -> RWST r w s m a -> RWST r w' s n b$/;"	ft	line:163	language:Haskell
+mapRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^mapRWST :: (m (a, s, w) -> n (b, s, w')) -> RWST r w s m a -> RWST r w' s n b$/;"	ft	line:163	language:Haskell
+mapReader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^mapReader :: (a -> b) -> Reader r a -> Reader r b$/;"	ft	line:92	language:Haskell
+mapReaderT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^mapReaderT :: (m a -> n b) -> ReaderT r m a -> ReaderT r n b$/;"	ft	line:117	language:Haskell
+mapState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^mapState :: ((a, s) -> (b, s)) -> State s a -> State s b$/;"	ft	line:136	language:Haskell
+mapState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^mapState :: ((a, s) -> (b, s)) -> State s a -> State s b$/;"	ft	line:133	language:Haskell
+mapStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^mapStateT :: (m (a, s) -> n (b, s)) -> StateT s m a -> StateT s n b$/;"	ft	line:184	language:Haskell
+mapStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^mapStateT :: (m (a, s) -> n (b, s)) -> StateT s m a -> StateT s n b$/;"	ft	line:181	language:Haskell
+mapWriter	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^mapWriter :: ((a, w) -> (b, w')) -> Writer w a -> Writer w' b$/;"	ft	line:101	language:Haskell
+mapWriter	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^mapWriter :: ((a, w) -> (b, w')) -> Writer w a -> Writer w' b$/;"	ft	line:104	language:Haskell
+mapWriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^mapWriterT :: (m (a, w) -> n (b, w')) -> WriterT w m a -> WriterT w' n b$/;"	ft	line:159	language:Haskell
+mapWriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^mapWriterT :: (m (a, w) -> n (b, w')) -> WriterT w m a -> WriterT w' n b$/;"	ft	line:162	language:Haskell
+maybeToExceptT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^maybeToExceptT :: (Functor m) => e -> MaybeT m a -> ExceptT e m a$/;"	ft	line:108	language:Haskell
+modify	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^modify :: (Monoid w, Monad m) => (s -> s) -> RWST r w s m ()$/;"	ft	line:342	language:Haskell
+modify	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^modify :: (Monoid w, Monad m) => (s -> s) -> RWST r w s m ()$/;"	ft	line:342	language:Haskell
+modify	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^modify :: (Monad m) => (s -> s) -> StateT s m ()$/;"	ft	line:268	language:Haskell
+modify	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^modify :: (Monad m) => (s -> s) -> StateT s m ()$/;"	ft	line:265	language:Haskell
+modify'	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^modify' :: (Monad m) => (s -> s) -> StateT s m ()$/;"	ft	line:276	language:Haskell
+modify'	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^modify' :: (Monad m) => (s -> s) -> StateT s m ()$/;"	ft	line:273	language:Haskell
+noMsg	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^    noMsg  :: a$/;"	ft	line:133	language:Haskell
+pass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^pass :: (Monad m) => RWST r w s m (a, w -> w) -> RWST r w s m a$/;"	ft	line:301	language:Haskell
+pass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^pass :: (Monad m) => RWST r w s m (a, w -> w) -> RWST r w s m a$/;"	ft	line:301	language:Haskell
+pass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^pass :: (Monad m) => WriterT w m (a, w -> w) -> WriterT w m a$/;"	ft	line:267	language:Haskell
+pass	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^pass :: (Monad m) => WriterT w m (a, w -> w) -> WriterT w m a$/;"	ft	line:270	language:Haskell
+put	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^put :: (Monoid w, Monad m) => s -> RWST r w s m ()$/;"	ft	line:334	language:Haskell
+put	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^put :: (Monoid w, Monad m) => s -> RWST r w s m ()$/;"	ft	line:334	language:Haskell
+put	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^put :: (Monad m) => s -> StateT s m ()$/;"	ft	line:260	language:Haskell
+put	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^put :: (Monad m) => s -> StateT s m ()$/;"	ft	line:257	language:Haskell
+r	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^type Cont r = ContT r Identity$/;"	fi	line:69	language:Haskell
+r	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^type RWS r w s = RWST r w s Identity$/;"	fi	line:78	language:Haskell
+r	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^type RWS r w s = RWST r w s Identity$/;"	fi	line:78	language:Haskell
+r	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^type Reader r = ReaderT r Identity$/;"	fi	line:73	language:Haskell
+readListWith	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readListWith :: ReadS a -> ReadS [a]$/;"	ft	line:132	language:Haskell
+reader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^reader :: (Monoid w, Monad m) => (r -> a) -> RWST r w s m a$/;"	ft	line:238	language:Haskell
+reader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^reader :: (Monoid w, Monad m) => (r -> a) -> RWST r w s m a$/;"	ft	line:238	language:Haskell
+reader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^reader :: (Monad m) => (r -> a) -> ReaderT r m a$/;"	ft	line:76	language:Haskell
+readsBinary1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsBinary1 :: (Read1 f, Read1 g, Read a) =>$/;"	ft	line:457	language:Haskell
+readsBinaryWith	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsBinaryWith :: (Int -> ReadS a) -> (Int -> ReadS b) ->$/;"	ft	line:418	language:Haskell
+readsData	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsData :: (String -> ReadS a) -> Int -> ReadS a$/;"	ft	line:405	language:Haskell
+readsPrec1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsPrec1 :: (Read1 f, Read a) => Int -> ReadS (f a)$/;"	ft	line:143	language:Haskell
+readsPrec2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsPrec2 :: (Read2 f, Read a, Read b) => Int -> ReadS (f a b)$/;"	ft	line:228	language:Haskell
+readsUnary	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsUnary :: (Read a) => String -> (a -> t) -> String -> ReadS t$/;"	ft	line:443	language:Haskell
+readsUnary1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsUnary1 :: (Read1 f, Read a) => String -> (f a -> t) -> String -> ReadS t$/;"	ft	line:450	language:Haskell
+readsUnaryWith	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^readsUnaryWith :: (Int -> ReadS a) -> String -> (a -> t) -> String -> ReadS t$/;"	ft	line:411	language:Haskell
+reset	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^reset :: Cont r r -> Cont r' r$/;"	ft	line:115	language:Haskell
+resetT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^resetT :: (Monad m) => ContT r m r -> ContT r' m r$/;"	ft	line:218	language:Haskell
+runCont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^runCont m k = runIdentity (runContT m (Identity . k))$/;"	fi	line:84	language:Haskell
+runContT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^newtype ContT r m a = ContT { runContT :: (a -> m r) -> m r }$/;"	c_a	line:135	language:Haskell
+runErrorT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^newtype ErrorT e m a = ErrorT { runErrorT :: m (Either e a) }$/;"	c_a	line:166	language:Haskell
+runErrors	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^runErrors :: Errors e a -> Either e a$/;"	ft	line:140	language:Haskell
+runExcept	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^runExcept :: Except e a -> Either e a$/;"	ft	line:86	language:Haskell
+runExceptT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^runExceptT :: ExceptT e m a -> m (Either e a)$/;"	ft	line:151	language:Haskell
+runIdentity	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre709/Data/Functor/Identity.hs	/^newtype Identity a = Identity { runIdentity :: a }$/;"	c_a	line:62	language:Haskell
+runIdentityT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Identity.hs	/^newtype IdentityT f a = IdentityT { runIdentityT :: f a }$/;"	c_a	line:53	language:Haskell
+runListT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/List.hs	/^newtype ListT m a = ListT { runListT :: m [a] }$/;"	c_a	line:51	language:Haskell
+runMaybeT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Maybe.hs	/^newtype MaybeT m a = MaybeT { runMaybeT :: m (Maybe a) }$/;"	c_a	line:70	language:Haskell
+runRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^runRWS :: RWS r w s a -> r -> s -> (a, s, w)$/;"	ft	line:88	language:Haskell
+runRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^runRWS :: RWS r w s a -> r -> s -> (a, s, w)$/;"	ft	line:88	language:Haskell
+runRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^newtype RWST r w s m a = RWST { runRWST :: r -> s -> m (a, s, w) }$/;"	c_a	line:134	language:Haskell
+runRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^newtype RWST r w s m a = RWST { runRWST :: r -> s -> m (a, s, w) }$/;"	c_a	line:134	language:Haskell
+runReader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^runReader m = runIdentity . runReaderT m$/;"	fi	line:86	language:Haskell
+runReaderT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^newtype ReaderT r m a = ReaderT { runReaderT :: r -> m a }$/;"	c_a	line:112	language:Haskell
+runState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^runState :: State s a   -- ^state-passing computation to execute$/;"	ft	line:106	language:Haskell
+runState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^runState :: State s a   -- ^state-passing computation to execute$/;"	ft	line:103	language:Haskell
+runStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^newtype StateT s m a = StateT { runStateT :: s -> m (a,s) }$/;"	c_a	line:158	language:Haskell
+runStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^newtype StateT s m a = StateT { runStateT :: s -> m (a,s) }$/;"	c_a	line:155	language:Haskell
+runWriter	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^runWriter :: Writer w a -> (a, w)$/;"	ft	line:86	language:Haskell
+runWriter	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^runWriter :: Writer w a -> (a, w)$/;"	ft	line:89	language:Haskell
+runWriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^newtype WriterT w m a = WriterT { runWriterT :: m (a, w) }$/;"	c_a	line:114	language:Haskell
+runWriterT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^newtype WriterT w m a = WriterT { runWriterT :: m (a, w) }$/;"	c_a	line:117	language:Haskell
+rws	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^rws :: (r -> s -> (a, s, w)) -> RWS r w s a$/;"	ft	line:82	language:Haskell
+rws	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^rws :: (r -> s -> (a, s, w)) -> RWS r w s a$/;"	ft	line:82	language:Haskell
+s	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^type State s = StateT s Identity$/;"	fi	line:94	language:Haskell
+s	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^type State s = StateT s Identity$/;"	fi	line:91	language:Haskell
+shift	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^shift :: ((a -> r) -> Cont r r) -> Cont r a$/;"	ft	line:124	language:Haskell
+shiftT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^shiftT :: (Monad m) => ((a -> m r) -> ContT r m r) -> ContT r m a$/;"	ft	line:227	language:Haskell
+showsBinary1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsBinary1 :: (Show1 f, Show1 g, Show a) =>$/;"	ft	line:481	language:Haskell
+showsBinaryWith	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsBinaryWith :: (Int -> a -> ShowS) -> (Int -> b -> ShowS) ->$/;"	ft	line:433	language:Haskell
+showsPrec1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsPrec1 :: (Show1 f, Show a) => Int -> f a -> ShowS$/;"	ft	line:167	language:Haskell
+showsPrec2	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsPrec2 :: (Show2 f, Show a, Show b) => Int -> f a b -> ShowS$/;"	ft	line:252	language:Haskell
+showsUnary	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsUnary :: (Show a) => String -> Int -> a -> ShowS$/;"	ft	line:466	language:Haskell
+showsUnary1	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsUnary1 :: (Show1 f, Show a) => String -> Int -> f a -> ShowS$/;"	ft	line:473	language:Haskell
+showsUnaryWith	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/legacy/pre711/Data/Functor/Classes.hs	/^showsUnaryWith :: (Int -> a -> ShowS) -> String -> Int -> a -> ShowS$/;"	ft	line:426	language:Haskell
+state	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^state :: (Monoid w, Monad m) => (s -> (a,s)) -> RWST r w s m a$/;"	ft	line:324	language:Haskell
+state	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^state :: (Monoid w, Monad m) => (s -> (a,s)) -> RWST r w s m a$/;"	ft	line:324	language:Haskell
+state	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^state :: (Monad m)$/;"	ft	line:98	language:Haskell
+state	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^state :: (Monad m)$/;"	ft	line:95	language:Haskell
+strMsg	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^    strMsg :: String -> a$/;"	ft	line:136	language:Haskell
+tell	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^tell :: (Monad m) => w -> RWST r w s m ()$/;"	ft	line:270	language:Haskell
+tell	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^tell :: (Monad m) => w -> RWST r w s m ()$/;"	ft	line:270	language:Haskell
+tell	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^tell :: (Monad m) => w -> WriterT w m ()$/;"	ft	line:236	language:Haskell
+tell	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^tell :: (Monad m) => w -> WriterT w m ()$/;"	ft	line:239	language:Haskell
+throwE	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^throwE :: (Monad m) => e -> ExceptT e m a$/;"	ft	line:261	language:Haskell
+throwError	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Error.hs	/^throwError :: (Monad m) => e -> ErrorT e m a$/;"	ft	line:271	language:Haskell
+unLift	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Applicative/Lift.hs	/^unLift :: (Applicative f) => Lift f a -> f a$/;"	ft	line:108	language:Haskell
+w	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Signatures.hs	/^type Listen w m a = m a -> m (a, w)$/;"	fi	line:48	language:Haskell
+w	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^type Writer w = WriterT w Identity$/;"	fi	line:76	language:Haskell
+w	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^type Writer w = WriterT w Identity$/;"	fi	line:79	language:Haskell
+withCont	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^withCont :: ((b -> r) -> (a -> r)) -> Cont r a -> Cont r b$/;"	ft	line:107	language:Haskell
+withContT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Cont.hs	/^withContT :: ((b -> m r) -> (a -> m r)) -> ContT r m a -> ContT r m b$/;"	ft	line:159	language:Haskell
+withExcept	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^withExcept :: (e -> e') -> Except e a -> Except e' a$/;"	ft	line:101	language:Haskell
+withExceptT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Except.hs	/^withExceptT :: (Functor m) => (e -> e') -> ExceptT e m a -> ExceptT e' m a$/;"	ft	line:166	language:Haskell
+withRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^withRWS :: (r' -> s -> (r, s)) -> RWS r w s a -> RWS r' w s a$/;"	ft	line:126	language:Haskell
+withRWS	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^withRWS :: (r' -> s -> (r, s)) -> RWS r w s a -> RWS r' w s a$/;"	ft	line:126	language:Haskell
+withRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^withRWST :: (r' -> s -> (r, s)) -> RWST r w s m a -> RWST r' w s m a$/;"	ft	line:171	language:Haskell
+withRWST	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^withRWST :: (r' -> s -> (r, s)) -> RWST r w s m a -> RWST r' w s m a$/;"	ft	line:171	language:Haskell
+withReader	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^withReader = withReaderT$/;"	fi	line:104	language:Haskell
+withReaderT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Reader.hs	/^withReaderT f m = ReaderT $ runReaderT m . f$/;"	fi	line:129	language:Haskell
+withState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^withState :: (s -> s) -> State s a -> State s a$/;"	ft	line:144	language:Haskell
+withState	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^withState :: (s -> s) -> State s a -> State s a$/;"	ft	line:141	language:Haskell
+withStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Lazy.hs	/^withStateT :: (s -> s) -> StateT s m a -> StateT s m a$/;"	ft	line:192	language:Haskell
+withStateT	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/State/Strict.hs	/^withStateT :: (s -> s) -> StateT s m a -> StateT s m a$/;"	ft	line:189	language:Haskell
+writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Lazy.hs	/^writer :: (Monad m) => (a, w) -> RWST r w s m a$/;"	ft	line:265	language:Haskell
+writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/RWS/Strict.hs	/^writer :: (Monad m) => (a, w) -> RWST r w s m a$/;"	ft	line:265	language:Haskell
+writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Lazy.hs	/^writer :: (Monad m) => (a, w) -> WriterT w m a$/;"	ft	line:80	language:Haskell
+writer	/Users/parkinwu/.stack/indices/Hackage/packages/transformers/0.5.2.0/transformers-0.5.2.0/Control/Monad/Trans/Writer/Strict.hs	/^writer :: (Monad m) => (a, w) -> WriterT w m a$/;"	ft	line:83	language:Haskell
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_NAME	hasktags
+Atom	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^data LispVal = Atom String$/;"	d	line:8	language:Haskell
+Bool	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^             | Bool Bool$/;"	cons	line:13	language:Haskell
+DottedList	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^             | DottedList [LispVal] LispVal$/;"	cons	line:10	language:Haskell
+EitherIO	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^data EitherIO e a = EitherIO {$/;"	d	line:8	language:Haskell
+InvaildEmail	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^data LoginError = InvaildEmail$/;"	d	line:24	language:Haskell
+InvaildEmail	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^data LoginError = InvaildEmail | NoSuchUser | InvaildPassword$/;"	d	line:7	language:Haskell
+InvaildPassword	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^data LoginError = InvaildEmail | NoSuchUser | InvaildPassword$/;"	cons	line:7	language:Haskell
 Lib	/Users/parkinwu/outwork/haskell/parser/src/Lib.hs	/^module Lib$/;"	m	line:1	language:Haskell
-LoginError	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^data LoginError = InvaildEmail$/;"	d	line:25	language:Haskell
+LispVal	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^data LispVal = Atom String$/;"	d	line:8	language:Haskell
+List	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^             | List [LispVal]$/;"	cons	line:9	language:Haskell
+LoginError	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^data LoginError = InvaildEmail$/;"	d	line:24	language:Haskell
+LoginError	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^data LoginError = InvaildEmail | NoSuchUser | InvaildPassword$/;"	d	line:7	language:Haskell
 Main	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^module Main where$/;"	m	line:2	language:Haskell
-NoSuchUser	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^                | NoSuchUser$/;"	cons	line:26	language:Haskell
-WrongPassword	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^                | WrongPassword$/;"	cons	line:27	language:Haskell
-getDomain	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^getDomain email =$/;"	fi	line:30	language:Haskell
-getToken	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^getToken :: EitherIO LoginError Text$/;"	ft	line:54	language:Haskell
-instance	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^instance Functor (EitherIO e) where$/;"	fi	line:13	language:Haskell
-liftEither	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^liftEither :: Either e a -> EitherIO e a$/;"	ft	line:60	language:Haskell
-liftIO	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^liftIO :: IO a -> EitherIO e a$/;"	ft	line:63	language:Haskell
+NoSuchUser	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^                | NoSuchUser$/;"	cons	line:25	language:Haskell
+NoSuchUser	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^data LoginError = InvaildEmail | NoSuchUser | InvaildPassword$/;"	cons	line:7	language:Haskell
+Number	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^             | Number Integer$/;"	cons	line:11	language:Haskell
+ParserTest	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^module ParserTest where$/;"	m	line:1	language:Haskell
+String	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^             | String String$/;"	cons	line:12	language:Haskell
+Trans	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^module Trans where$/;"	m	line:2	language:Haskell
+WrongPassword	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^                | WrongPassword$/;"	cons	line:26	language:Haskell
+apply	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^apply :: String -> [LispVal] -> LispVal$/;"	ft	line:102	language:Haskell
+eval	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^eval :: LispVal -> LispVal$/;"	ft	line:95	language:Haskell
+getDomain	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^getDomain email =$/;"	fi	line:29	language:Haskell
+getPassword	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^getPassword :: Text -> Maybe Text$/;"	ft	line:24	language:Haskell
+getToken	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^getToken :: EitherIO LoginError Text$/;"	ft	line:53	language:Haskell
+getToken	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^getToken :: Text -> Either LoginError Text$/;"	ft	line:27	language:Haskell
+instance	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^instance Functor (EitherIO e) where$/;"	fi	line:12	language:Haskell
+instance	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^instance Show LispVal where$/;"	fi	line:89	language:Haskell
+liftEither	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^liftEither :: Either e a -> EitherIO e a$/;"	ft	line:59	language:Haskell
+liftIO	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^liftIO :: IO a -> EitherIO e a$/;"	ft	line:62	language:Haskell
 main	/Users/parkinwu/outwork/haskell/parser/Setup.hs	/^main = defaultMain$/;"	fi	line:2	language:Haskell
-main	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^main :: IO ()$/;"	ft	line:66	language:Haskell
+main	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^main :: IO ()$/;"	ft	line:65	language:Haskell
+main	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^main = getArgs >>= print . eval . readExpr . head$/;"	fi	line:128	language:Haskell
+main	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^main :: IO ()$/;"	ft	line:8	language:Haskell
 main	/Users/parkinwu/outwork/haskell/parser/test/Spec.hs	/^main :: IO ()$/;"	ft	line:1	language:Haskell
-printResult	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^printResult :: Either LoginError Text -> IO ()$/;"	ft	line:46	language:Haskell
-runEitherIO	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^  runEitherIO :: IO (Either e a)$/;"	c_a	line:10	language:Haskell
+numericBinop	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^numericBinop :: (Integer -> Integer -> Integer) -> [LispVal] -> LispVal$/;"	ft	line:114	language:Haskell
+parseAtom	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseAtom :: Parser LispVal$/;"	ft	line:23	language:Haskell
+parseDottedList	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseDottedList :: Parser LispVal$/;"	ft	line:56	language:Haskell
+parseExpr	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseExpr :: Parser LispVal$/;"	ft	line:43	language:Haskell
+parseList	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseList :: Parser LispVal$/;"	ft	line:53	language:Haskell
+parseNumber	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseNumber :: Parser LispVal$/;"	ft	line:33	language:Haskell
+parseNumber'	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseNumber' :: Parser LispVal$/;"	ft	line:36	language:Haskell
+parseQuoted	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseQuoted :: Parser LispVal$/;"	ft	line:62	language:Haskell
+parseString	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^parseString :: Parser LispVal$/;"	ft	line:16	language:Haskell
+primitives	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^primitives :: [(String, [LispVal] -> LispVal)]$/;"	ft	line:105	language:Haskell
+printResult	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^printResult :: Either LoginError Text -> IO ()$/;"	ft	line:45	language:Haskell
+readExpr	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^readExpr :: String -> LispVal$/;"	ft	line:71	language:Haskell
+runEitherIO	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^  runEitherIO :: IO (Either e a)$/;"	c_a	line:9	language:Haskell
+showVal	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^showVal :: LispVal -> String$/;"	ft	line:80	language:Haskell
 someFunc	/Users/parkinwu/outwork/haskell/parser/src/Lib.hs	/^someFunc :: IO ()$/;"	ft	line:5	language:Haskell
-userLogin	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^userLogin ::  EitherIO LoginError Text$/;"	ft	line:36	language:Haskell
-users	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^users :: Map Text Text$/;"	ft	line:69	language:Haskell
+spaces	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^spaces :: Parser ()$/;"	ft	line:76	language:Haskell
+symbol	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^symbol :: Parser Char$/;"	ft	line:68	language:Haskell
+unpackNum	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^unpackNum :: LispVal -> Integer$/;"	ft	line:117	language:Haskell
+unwordsList	/Users/parkinwu/outwork/haskell/parser/app/ParserTest.hs	/^unwordsList :: [LispVal] -> String$/;"	ft	line:92	language:Haskell
+userLogin	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^userLogin ::  EitherIO LoginError Text$/;"	ft	line:35	language:Haskell
+users	/Users/parkinwu/outwork/haskell/parser/app/Main.hs	/^users :: Map Text Text$/;"	ft	line:68	language:Haskell
+users	/Users/parkinwu/outwork/haskell/parser/app/Trans.hs	/^users :: [(Text, Text)]$/;"	ft	line:33	language:Haskell
