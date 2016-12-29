@@ -1,10 +1,10 @@
-module Example where
+{-# LANGUAGE FlexibleInstances #-}
+module MyParsec where
 
 import           Control.Applicative
 import           Control.Monad
 import           Data.Char
 
--- 接受一个值, 产生一个函数, 这个函数接受一个 String, 返回一个元组列表
 newtype Parser a = Parser {
   parse :: String -> [(a, String)]
 }
@@ -17,10 +17,6 @@ runParser m s =
     _           -> error "parse error"
 
 
-funtorTest n = do
-  (a, b) <- [(20, "a"), (30, "b")]
-  return ((a + n), b)
-
 instance Functor Parser where
   fmap f (Parser cs) = Parser $ \s -> [(f a, b) | (a, b) <- cs s]
 
@@ -30,7 +26,7 @@ instance Applicative Parser where
 
 instance Monad Parser where
   return = pure
-  p >>= f = Parser $ \s -> concatMap  (\(a, s') -> parse (f a) s') (parse p s)
+  p >>= f = Parser $ \s -> concatMap (\(a, s') -> parse (f a) s') $ parse p s
 
 
 instance MonadPlus Parser where
@@ -56,8 +52,8 @@ satisfy f = item >>= \c -> if f c then return c else mzero
 oneOf :: String -> Parser Char
 oneOf s = satisfy (`elem` s)
 
---chainl :: Parser a -> Parser (a -> a -> a) -> a -> Parser a
---chainl p op a = (p `chainl1` op) <|> return a
+chainl :: Parser a -> Parser (a -> a -> a) -> a -> Parser a
+chainl p op a = (p `chainl1` op) <|> return a
 
 chainl1 :: Parser a -> Parser (a -> a -> a) -> Parser a
 p `chainl1` op = do {a <- p; rest a}
@@ -65,10 +61,6 @@ p `chainl1` op = do {a <- p; rest a}
                      b <- p
                      rest (f a b))
                  <|> return a
-                 
-
-
-
 
 --rest a = op >>= \f -> p >>= \b -> rest (f a b) <|> return a
 
@@ -96,18 +88,14 @@ digit = satisfy isDigit
 
 number :: Parser Int
 number = do
-  spaces
   s <- string "-" <|> return []
   cs <- some digit
-  spaces
   return $ read (s ++ cs)
 
 parens :: Parser a -> Parser a
 parens m = do
   reserved "("
-  spaces
   n <- m
-  spaces
   reserved ")"
   return n
 
@@ -154,12 +142,28 @@ mulop = infixOp "*" Mul
 run :: String -> Expr
 run = runParser expr
 
-main :: IO ()
-main = forever $ do
-  putStr "> "
-  a <- getLine
-  print $ run a
-  print $ eval $ run a
+-- main :: IO ()
+-- main = forever $ do
+--   putStr "> "
+--   a <- getLine
+--   print $ run a
+--   print $ eval $ run a
 
-  
-    
+getNumber = do
+  let x = [1, 2, 3]
+  a <- x
+  b <- x
+  c <- x
+  return $ a + b + c
+
+getNumber1 = do
+  let x = [2, 3, 4]
+  a <- x
+  b <- x
+  c <- x
+  return $ a + b + c
+
+main = do
+  num <- getNumber
+  num1 <- getNumber1
+  print $ (num + num1)

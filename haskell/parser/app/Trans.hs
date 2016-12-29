@@ -32,5 +32,3 @@ getToken email =
 
 users :: [(Text, Text)]
 users = [("example", "qwerty123"), ("pzwu", "popopo")]
-
-

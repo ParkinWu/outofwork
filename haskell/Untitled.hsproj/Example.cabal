@@ -5,10 +5,9 @@ build-type: Simple
 license: AllRightsReserved
 stability: experimental
 x-ghc-framework-version: 7.10.3-5.18-2
-x-last-ide-version: HfM1.3.1
+x-last-ide-version: HfM1.3.2
 Executable Example
   main-is: Example.hs
   buildable: True
   build-depends:
-      base -any,
-      time -any
+      base -any

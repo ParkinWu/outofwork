@@ -26,11 +26,11 @@ data LoginError = InvaildEmail
                 | WrongPassword
                 deriving Show
 
+
 getDomain email =
   case splitOn "@" email of
     [name, domain] -> Right domain
     _ -> Left InvaildEmail
-
 
 userLogin ::  EitherIO LoginError Text
 userLogin = do
