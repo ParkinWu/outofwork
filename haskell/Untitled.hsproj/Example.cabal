@@ -11,3 +11,5 @@ Executable Example
   buildable: True
   build-depends:
       base -any
+  other-modules:
+      DebugTest

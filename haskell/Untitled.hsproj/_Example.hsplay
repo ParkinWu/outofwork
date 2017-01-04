@@ -1,31 +1,14 @@
 -- Haskell Playground 1.0
-eval $ run "-1 + (1 + 2) * 3 - 1"
+parse (expr) "1+2*3"
+parse (factor) "(1+2)"
+parse (char 'a') "aaa"
+parse (many $ char 'a') "aaa"
 
-print $ run "-1 + (1 + 2) * 3 - 1"
+parse (char 'a' >> char 'a') "a"
 
-print $ run "(1 + 2)"
-
-chainl1
-
-
-
-funtorTest 10
-funtorTest 100
+parse (string "123") "1234"
 
 
-runParser (((int <|> parens expr) `chainl1` mulop) `chainl1` addop) "3 * 2 + 1 - 10"
+parse (reserved "return") "return123"
 
-3 * 2 + 1 - 10
-
-eval $ runParser (((int <|> parens expr) `chainl1` addop) `chainl1` mulop) "3 * 2 + 1 - 10"
-
-(((int <|> parens expr) `chainl1` addop) `chainl1` mulop)
-
-runParser int "1"
-
-runParser (oneOf "123") "1"
-
-elem 'c' "ccc"
-
-
-(parse number) "123a"
+parse (expr) "1+2"

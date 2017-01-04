@@ -142,28 +142,9 @@ mulop = infixOp "*" Mul
 run :: String -> Expr
 run = runParser expr
 
--- main :: IO ()
--- main = forever $ do
---   putStr "> "
---   a <- getLine
---   print $ run a
---   print $ eval $ run a
-
-getNumber = do
-  let x = [1, 2, 3]
-  a <- x
-  b <- x
-  c <- x
-  return $ a + b + c
-
-getNumber1 = do
-  let x = [2, 3, 4]
-  a <- x
-  b <- x
-  c <- x
-  return $ a + b + c
-
-main = do
-  num <- getNumber
-  num1 <- getNumber1
-  print $ (num + num1)
+main :: IO ()
+main = forever $ do
+  putStr "> "
+  a <- getLine
+  print $ run a
+  print $ eval $ run a

@@ -4,12 +4,17 @@ import           Control.Monad
 import           Data.Either         (either)
 import           Data.List
 import           Lib (someFunc)
+import Lib (someFunc)
+import Debug.Trace
+
 
 main :: IO ()
 main = someFunc
 
-test1 = someFunc
+quicksort [] = []
+quicksort (x:xs) = left xs ++ [x] ++ right xs
+  where left xs = quicksort $ filter (< x) xs
+        right xs = quicksort $ filter (>= x) xs
 
-test2 = someFunc
 
-test3 = someFunc
+

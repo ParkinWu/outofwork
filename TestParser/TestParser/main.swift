@@ -1,6 +1,13 @@
-//: Playground - noun: a place where people can play
+//
+//  main.swift
+//  TestParser
+//
+//  Created by parkinwu on 2016/12/30.
+//  Copyright © 2016年 parkinwu. All rights reserved.
+//
 
-import UIKit
+
+import Foundation
 
 class Parser<T> {
     var parse : (String) -> [(T, String)]
@@ -73,7 +80,7 @@ func >=><T, U>(ma: Parser<T>, f: @escaping ((T) -> Parser<U>)) -> Parser<U> {
         for item in ma.parse(str) {
             let parseU = f(item.0)
             ret.append(contentsOf: parseU.parse(item.1))
-
+            
         }
         return ret
     })
@@ -142,9 +149,6 @@ func preAppend<T>(item: T) -> (([T]) -> [T]) {
     }
 }
 
-runParser(parser: oneOf(str: "123"), input: "1")
-runParser(parser: char(c: "1"), input: "1")
-runParser(parser: char(c: "1") |  char(c: "2"), input: "2")
 
 
 
@@ -167,12 +171,6 @@ func many<T>(p: Parser<T>) -> Parser<[T]> {
     return manyV(p: p)
 }
 
-runParser(parser: many(p: char(c: "1")) , input: "")
-runParser(parser: some(p: char(c: "1")) , input: "1")
-runParser(parser: many(p: char(c: "1")) , input: "11112")
-runParser(parser: some(p: char(c: "1")) , input: "11112")
-
-(char(c: "a") => char(c: "b")).parse("abd")
 
 
 let manyC = some(p: char(c: "1")).parse("11112")
@@ -202,12 +200,6 @@ func isDigit(c: Character) -> Bool {
     return c >= "0" && c <= "9"
 }
 
-isDigit(c: "1")
-isDigit(c: "0")
-isDigit(c: "c")
-
-
-
 
 func digit() -> Parser<Character> {
     return satisfy(f: isDigit)
@@ -225,15 +217,6 @@ func string(str: String) -> Parser<String> {
 }
 
 
-
-string(str: "123").parse("1233")
-
-some(p: digit())
-
-
-
-string(str: "-") | pure(a: "")
-
 func number() -> Parser<Int> {
     return (spaces() => (string(str: "-") | pure(a: ""))) >=> { (s) -> Parser<Int> in
         return some(p: digit()) >=> { (cs) -> Parser<Int> in
@@ -249,7 +232,7 @@ func number() -> Parser<Int> {
                     } else {
                         return []
                     }
-        
+                    
                 })
             }
             
@@ -258,7 +241,6 @@ func number() -> Parser<Int> {
     
 }
 
-number().parse("-123a")
 
 func token<T>(p: Parser<T>) -> Parser<T> {
     return spaces() >=> { (_) -> Parser<T> in
@@ -289,7 +271,7 @@ func eval(expr: Expr) -> Int {
         return eval(expr: left) * eval(expr: right)
     case .lit(let i):
         return i
-
+        
     }
 }
 
@@ -311,7 +293,7 @@ func parens<T>(m: Parser<T>) -> Parser<T> {
 }
 
 let pars = parens(m: string(str: "1231")).parse("(1231)")
-print(pars)
+//print(pars)
 
 func chain<T>(p: Parser<T>, op: Parser<((T) -> ((T) -> T))>) -> Parser<T> {
     func rest(a: T) -> Parser<T> {
@@ -319,7 +301,7 @@ func chain<T>(p: Parser<T>, op: Parser<((T) -> ((T) -> T))>) -> Parser<T> {
             return p >=> { (b) -> Parser<T> in
                 return rest(a: f(a)(b))
             }
-        }) | pure(a: a)
+            }) | pure(a: a)
     }
     return p >=> { rest(a: $0)}
 }
@@ -342,32 +324,29 @@ func mulOp() -> Parser<((Expr) -> ((Expr) -> Expr))> {
     return infixOp(str: "-", f: mul)
 }
 
+
+
 func term() -> Parser<Expr> {
     return chain(p: factor(), op: mulOp())
 }
 
 
 func factor() -> Parser<Expr> {
-    return int() | parens(m: expr())
+    return int() //| parens(m: expr())
 }
-
-
 func expr() -> Parser<Expr> {
     return chain(p: term(), op: addOp())
 }
 
 
 
-print(term().parse("12"))
+//
+let res = runParser(parser: expr(), input: "1+2+3+4")
+print(eval(expr: res))
 
-print(factor().parse("1"))
+print("end")
 
 
-let expr1 = expr().parse("1+2*3")
-
-print(expr1)
-
-print("123")
 
 
 

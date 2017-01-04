@@ -3,8 +3,9 @@ import Control.Applicative
 import Control.Monad
 import Data.List
 
-
 data ExampleType = ExampleType Int Int
+
+
 
 instance Eq ExampleType where
 
